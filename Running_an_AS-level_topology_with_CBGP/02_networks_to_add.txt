@@ -1,0 +1,3786 @@
+bgp router 72.160.0.0 add network 72.160.0.0/16 
+
+bgp router AS31025 add network 121.49.0.0/16 
+
+bgp router AS64936 add network 253.168.0.0/16 
+
+bgp router AS25577 add network 99.233.0.0/16 
+
+bgp router AS37258 add network 145.138.0.0/16 
+
+bgp router AS8751 add network 34.47.0.0/16 
+
+bgp router AS27724 add network 108.76.0.0/16 
+
+bgp router AS17714 add network 69.50.0.0/16 
+
+bgp router AS37255 add network 145.135.0.0/16 
+
+bgp router AS37346 add network 145.226.0.0/16 
+
+bgp router AS37466 add network 146.90.0.0/16 
+
+bgp router AS37275 add network 145.155.0.0/16 
+
+bgp router AS47273 add network 184.169.0.0/16 
+
+bgp router AS22652 add network 88.124.0.0/16 
+
+bgp router AS32017 add network 125.17.0.0/16 
+
+bgp router AS5511 add network 21.135.0.0/16 
+
+bgp router AS29000 add network 113.72.0.0/16 
+
+bgp router AS24691 add network 96.115.0.0/16 
+
+bgp router AS12386 add network 48.98.0.0/16 
+
+bgp router AS17579 add network 68.171.0.0/16 
+
+bgp router AS6539 add network 25.139.0.0/16 
+
+bgp router AS20115 add network 78.147.0.0/16 
+
+bgp router AS14178 add network 55.98.0.0/16 
+
+bgp router AS45309 add network 176.253.0.0/16 
+
+bgp router AS7597 add network 29.173.0.0/16 
+
+bgp router AS2561 add network 10.1.0.0/16 
+
+bgp router AS37652 add network 147.20.0.0/16 
+
+bgp router AS1835 add network 7.43.0.0/16 
+
+bgp router AS39180 add network 153.12.0.0/16 
+
+bgp router AS37564 add network 146.188.0.0/16 
+
+bgp router AS3436 add network 13.108.0.0/16 
+
+bgp router AS2852 add network 11.36.0.0/16 
+
+bgp router AS37433 add network 146.57.0.0/16 
+
+bgp router AS36052 add network 140.212.0.0/16 
+
+bgp router AS6226 add network 24.82.0.0/16 
+
+bgp router AS36904 add network 144.40.0.0/16 
+
+bgp router AS37405 add network 146.29.0.0/16 
+
+bgp router AS25537 add network 99.193.0.0/16 
+
+bgp router AS20459 add network 79.235.0.0/16 
+
+bgp router AS7018 add network 27.106.0.0/16 
+
+bgp router AS52376 add network 204.152.0.0/16 
+
+bgp router AS37702 add network 147.70.0.0/16 
+
+bgp router AS36874 add network 144.10.0.0/16 
+
+bgp router AS37415 add network 146.39.0.0/16 
+
+bgp router AS36928 add network 144.64.0.0/16 
+
+bgp router AS36974 add network 144.110.0.0/16 
+
+bgp router AS16246 add network 63.118.0.0/16 
+
+bgp router AS57136 add network 223.48.0.0/16 
+
+bgp router AS37418 add network 146.42.0.0/16 
+
+bgp router AS13237 add network 51.181.0.0/16 
+
+bgp router AS32860 add network 128.92.0.0/16 
+
+bgp router AS23911 add network 93.103.0.0/16 
+
+bgp router AS38040 add network 148.152.0.0/16 
+
+bgp router AS37124 add network 145.4.0.0/16 
+
+bgp router AS44814 add network 175.14.0.0/16 
+
+bgp router AS34984 add network 136.168.0.0/16 
+
+bgp router AS19092 add network 74.148.0.0/16 
+
+bgp router AS37585 add network 146.209.0.0/16 
+
+bgp router AS37103 add network 144.239.0.0/16 
+
+bgp router AS37235 add network 145.115.0.0/16 
+
+bgp router AS37090 add network 144.226.0.0/16 
+
+bgp router AS22355 add network 87.83.0.0/16 
+
+bgp router AS28329 add network 110.169.0.0/16 
+
+bgp router AS58943 add network 230.63.0.0/16 
+
+bgp router AS46198 add network 180.118.0.0/16 
+
+bgp router AS4608 add network 18.0.0.0/16 
+
+bgp router AS9505 add network 37.33.0.0/16 
+
+bgp router AS37180 add network 145.60.0.0/16 
+
+bgp router AS37416 add network 146.40.0.0/16 
+
+bgp router AS35805 add network 139.221.0.0/16 
+
+bgp router AS11300 add network 44.36.0.0/16 
+
+bgp router AS25568 add network 99.224.0.0/16 
+
+bgp router AS37683 add network 147.51.0.0/16 
+
+bgp router AS39107 add network 152.195.0.0/16 
+
+bgp router AS37592 add network 146.216.0.0/16 
+
+bgp router AS57521 add network 224.177.0.0/16 
+
+bgp router AS18451 add network 72.19.0.0/16 
+
+bgp router AS38753 add network 151.97.0.0/16 
+
+bgp router AS31500 add network 123.12.0.0/16 
+
+bgp router AS37001 add network 144.137.0.0/16 
+
+bgp router AS37101 add network 144.237.0.0/16 
+
+bgp router AS20771 add network 81.35.0.0/16 
+
+bgp router AS3597 add network 14.13.0.0/16 
+
+bgp router AS37642 add network 147.10.0.0/16 
+
+bgp router AS36493 add network 142.141.0.0/16 
+
+bgp router AS37492 add network 146.116.0.0/16 
+
+bgp router AS9325 add network 36.109.0.0/16 
+
+bgp router AS45204 add network 176.148.0.0/16 
+
+bgp router AS3320 add network 12.248.0.0/16 
+
+bgp router AS11157 add network 43.149.0.0/16 
+
+bgp router AS60299 add network 235.139.0.0/16 
+
+bgp router AS28910 add network 112.238.0.0/16 
+
+bgp router AS12011 add network 46.235.0.0/16 
+
+bgp router AS50384 add network 196.208.0.0/16 
+
+bgp router AS36971 add network 144.107.0.0/16 
+
+bgp router AS37562 add network 146.186.0.0/16 
+
+bgp router AS6241 add network 24.97.0.0/16 
+
+bgp router AS37048 add network 144.184.0.0/16 
+
+bgp router AS37426 add network 146.50.0.0/16 
+
+bgp router AS9416 add network 36.200.0.0/16 
+
+bgp router AS5400 add network 21.24.0.0/16 
+
+bgp router AS28907 add network 112.235.0.0/16 
+
+bgp router AS20836 add network 81.100.0.0/16 
+
+bgp router AS7048 add network 27.136.0.0/16 
+
+bgp router AS36993 add network 144.129.0.0/16 
+
+bgp router AS271 add network 1.15.0.0/16 
+
+bgp router AS21174 add network 82.182.0.0/16 
+
+bgp router AS1200 add network 4.176.0.0/16 
+
+bgp router AS37328 add network 145.208.0.0/16 
+
+bgp router AS27781 add network 108.133.0.0/16 
+
+bgp router AS3361 add network 13.33.0.0/16 
+
+bgp router AS30827 add network 120.107.0.0/16 
+
+bgp router AS47961 add network 187.89.0.0/16 
+
+bgp router AS15774 add network 61.158.0.0/16 
+
+bgp router AS37515 add network 146.139.0.0/16 
+
+bgp router AS37374 add network 145.254.0.0/16 
+
+bgp router AS680 add network 2.168.0.0/16 
+
+bgp router AS28226 add network 110.66.0.0/16 
+
+bgp router AS4844 add network 18.236.0.0/16 
+
+bgp router AS39392 add network 153.224.0.0/16 
+
+bgp router AS37306 add network 145.186.0.0/16 
+
+bgp router AS31216 add network 121.240.0.0/16 
+
+bgp router AS5507 add network 21.131.0.0/16 
+
+bgp router AS15598 add network 60.238.0.0/16 
+
+bgp router AS12998 add network 50.198.0.0/16 
+
+bgp router AS10102 add network 39.118.0.0/16 
+
+bgp router AS3776 add network 14.192.0.0/16 
+
+bgp router AS37511 add network 146.135.0.0/16 
+
+bgp router AS37649 add network 147.17.0.0/16 
+
+bgp router AS41313 add network 161.97.0.0/16 
+
+bgp router AS37658 add network 147.26.0.0/16 
+
+bgp router AS37076 add network 144.212.0.0/16 
+
+bgp router AS2200 add network 8.152.0.0/16 
+
+bgp router AS52965 add network 206.229.0.0/16 
+
+bgp router AS37264 add network 145.144.0.0/16 
+
+bgp router AS7575 add network 29.151.0.0/16 
+
+bgp router AS37047 add network 144.183.0.0/16 
+
+bgp router AS15804 add network 61.188.0.0/16 
+
+bgp router AS36866 add network 144.2.0.0/16 
+
+bgp router AS2259 add network 8.211.0.0/16 
+
+bgp router AS55644 add network 217.92.0.0/16 
+
+bgp router AS39743 add network 155.63.0.0/16 
+
+bgp router AS3790 add network 14.206.0.0/16 
+
+bgp router AS51665 add network 201.209.0.0/16 
+
+bgp router AS645 add network 2.133.0.0/16 
+
+bgp router AS12670 add network 49.126.0.0/16 
+
+bgp router AS36932 add network 144.68.0.0/16 
+
+bgp router AS7788 add network 30.108.0.0/16 
+
+bgp router AS36976 add network 144.112.0.0/16 
+
+bgp router AS6219 add network 24.75.0.0/16 
+
+bgp router AS45735 add network 178.167.0.0/16 
+
+bgp router AS4775 add network 18.167.0.0/16 
+
+bgp router AS37643 add network 147.11.0.0/16 
+
+bgp router AS37033 add network 144.169.0.0/16 
+
+bgp router AS27841 add network 108.193.0.0/16 
+
+bgp router AS37455 add network 146.79.0.0/16 
+
+bgp router AS36968 add network 144.104.0.0/16 
+
+bgp router AS25273 add network 98.185.0.0/16 
+
+bgp router AS9503 add network 37.31.0.0/16 
+
+bgp router AS20388 add network 79.164.0.0/16 
+
+bgp router AS3329 add network 13.1.0.0/16 
+
+bgp router AS37304 add network 145.184.0.0/16 
+
+bgp router AS35400 add network 138.72.0.0/16 
+
+bgp router AS35662 add network 139.78.0.0/16 
+
+bgp router AS16685 add network 65.45.0.0/16 
+
+bgp router AS3328 add network 13.0.0.0/16 
+
+bgp router AS44327 add network 173.39.0.0/16 
+
+bgp router AS37315 add network 145.195.0.0/16 
+
+bgp router AS37125 add network 145.5.0.0/16 
+
+bgp router AS65286 add network 255.6.0.0/16 
+
+bgp router AS55821 add network 218.13.0.0/16 
+
+bgp router AS8524 add network 33.76.0.0/16 
+
+bgp router AS37402 add network 146.26.0.0/16 
+
+bgp router AS28124 add network 109.220.0.0/16 
+
+bgp router AS17676 add network 69.12.0.0/16 
+
+bgp router AS1049 add network 4.25.0.0/16 
+
+bgp router AS60330 add network 235.170.0.0/16 
+
+bgp router AS23935 add network 93.127.0.0/16 
+
+bgp router AS4635 add network 18.27.0.0/16 
+
+bgp router AS26106 add network 101.250.0.0/16 
+
+bgp router AS37354 add network 145.234.0.0/16 
+
+bgp router AS12741 add network 49.197.0.0/16 
+
+bgp router AS13329 add network 52.17.0.0/16 
+
+bgp router AS43256 add network 168.248.0.0/16 
+
+bgp router AS6208 add network 24.64.0.0/16 
+
+bgp router AS33491 add network 130.211.0.0/16 
+
+bgp router AS3300 add network 12.228.0.0/16 
+
+bgp router AS4771 add network 18.163.0.0/16 
+
+bgp router AS28173 add network 110.13.0.0/16 
+
+bgp router AS226 add network 0.226.0.0/16 
+
+bgp router AS3633 add network 14.49.0.0/16 
+
+bgp router AS36935 add network 144.71.0.0/16 
+
+bgp router AS38726 add network 151.70.0.0/16 
+
+bgp router AS18101 add network 70.181.0.0/16 
+
+bgp router AS23815 add network 93.7.0.0/16 
+
+bgp router AS15835 add network 61.219.0.0/16 
+
+bgp router AS37583 add network 146.207.0.0/16 
+
+bgp router AS16284 add network 63.156.0.0/16 
+
+bgp router AS8262 add network 32.70.0.0/16 
+
+bgp router AS37197 add network 145.77.0.0/16 
+
+bgp router AS35405 add network 138.77.0.0/16 
+
+bgp router AS30998 add network 121.22.0.0/16 
+
+bgp router AS56308 add network 219.244.0.0/16 
+
+bgp router AS4323 add network 16.227.0.0/16 
+
+bgp router AS37276 add network 145.156.0.0/16 
+
+bgp router AS43561 add network 170.41.0.0/16 
+
+bgp router AS37203 add network 145.83.0.0/16 
+
+bgp router AS27552 add network 107.160.0.0/16 
+
+bgp router AS37619 add network 146.243.0.0/16 
+
+bgp router AS45899 add network 179.75.0.0/16 
+
+bgp router AS37018 add network 144.154.0.0/16 
+
+bgp router AS31027 add network 121.51.0.0/16 
+
+bgp router AS12975 add network 50.175.0.0/16 
+
+bgp router AS4788 add network 18.180.0.0/16 
+
+bgp router AS37672 add network 147.40.0.0/16 
+
+bgp router AS64954 add network 253.186.0.0/16 
+
+bgp router AS37282 add network 145.162.0.0/16 
+
+bgp router AS6242 add network 24.98.0.0/16 
+
+bgp router AS37181 add network 145.61.0.0/16 
+
+bgp router AS37223 add network 145.103.0.0/16 
+
+bgp router AS12605 add network 49.61.0.0/16 
+
+bgp router AS27750 add network 108.102.0.0/16 
+
+bgp router AS37378 add network 146.2.0.0/16 
+
+bgp router AS37036 add network 144.172.0.0/16 
+
+bgp router AS37155 add network 145.35.0.0/16 
+
+bgp router AS24589 add network 96.13.0.0/16 
+
+bgp router AS36881 add network 144.17.0.0/16 
+
+bgp router AS37468 add network 146.92.0.0/16 
+
+bgp router AS37066 add network 144.202.0.0/16 
+
+bgp router AS30985 add network 121.9.0.0/16 
+
+bgp router AS25320 add network 98.232.0.0/16 
+
+bgp router AS33762 add network 131.226.0.0/16 
+
+bgp router AS9070 add network 35.110.0.0/16 
+
+bgp router AS6217 add network 24.73.0.0/16 
+
+bgp router AS15419 add network 60.59.0.0/16 
+
+bgp router AS37566 add network 146.190.0.0/16 
+
+bgp router AS37309 add network 145.189.0.0/16 
+
+bgp router AS8966 add network 35.6.0.0/16 
+
+bgp router AS42927 add network 167.175.0.0/16 
+
+bgp router AS2895 add network 11.79.0.0/16 
+
+bgp router AS33791 add network 131.255.0.0/16 
+
+bgp router AS38794 add network 151.138.0.0/16 
+
+bgp router AS27720 add network 108.72.0.0/16 
+
+bgp router AS36980 add network 144.116.0.0/16 
+
+bgp router AS37513 add network 146.137.0.0/16 
+
+bgp router AS65000 add network 253.232.0.0/16 
+
+bgp router AS43683 add network 170.163.0.0/16 
+
+bgp router AS30475 add network 119.11.0.0/16 
+
+bgp router AS6204 add network 24.60.0.0/16 
+
+bgp router AS2874 add network 11.58.0.0/16 
+
+bgp router AS37555 add network 146.179.0.0/16 
+
+bgp router AS37510 add network 146.134.0.0/16 
+
+bgp router AS39138 add network 152.226.0.0/16 
+
+bgp router AS24489 add network 95.169.0.0/16 
+
+bgp router AS12455 add network 48.167.0.0/16 
+
+bgp router AS22773 add network 88.245.0.0/16 
+
+bgp router AS37639 add network 147.7.0.0/16 
+
+bgp router AS25074 add network 97.242.0.0/16 
+
+bgp router AS37002 add network 144.138.0.0/16 
+
+bgp router AS37692 add network 147.60.0.0/16 
+
+bgp router AS15576 add network 60.216.0.0/16 
+
+bgp router AS3356 add network 13.28.0.0/16 
+
+bgp router AS6853 add network 26.197.0.0/16 
+
+bgp router AS20804 add network 81.68.0.0/16 
+
+bgp router AS37528 add network 146.152.0.0/16 
+
+bgp router AS8329 add network 32.137.0.0/16 
+
+bgp router AS11260 add network 43.252.0.0/16 
+
+bgp router AS64584 add network 252.72.0.0/16 
+
+bgp router AS55818 add network 218.10.0.0/16 
+
+bgp router AS26422 add network 103.54.0.0/16 
+
+bgp router AS3721 add network 14.137.0.0/16 
+
+bgp router AS8094 add network 31.158.0.0/16 
+
+bgp router AS26769 add network 104.145.0.0/16 
+
+bgp router AS22177 add network 86.161.0.0/16 
+
+bgp router AS12883 add network 50.83.0.0/16 
+
+bgp router AS16876 add network 65.236.0.0/16 
+
+bgp router AS30419 add network 118.211.0.0/16 
+
+bgp router AS22150 add network 86.134.0.0/16 
+
+bgp router AS19036 add network 74.92.0.0/16 
+
+bgp router AS30696 add network 119.232.0.0/16 
+
+bgp router AS13194 add network 51.138.0.0/16 
+
+bgp router AS15475 add network 60.115.0.0/16 
+
+bgp router AS37119 add network 144.255.0.0/16 
+
+bgp router AS3308 add network 12.236.0.0/16 
+
+bgp router AS8452 add network 33.4.0.0/16 
+
+bgp router AS6274 add network 24.130.0.0/16 
+
+bgp router AS4780 add network 18.172.0.0/16 
+
+bgp router AS3225 add network 12.153.0.0/16 
+
+bgp router AS37123 add network 145.3.0.0/16 
+
+bgp router AS43727 add network 170.207.0.0/16 
+
+bgp router AS17746 add network 69.82.0.0/16 
+
+bgp router AS37496 add network 146.120.0.0/16 
+
+bgp router AS37009 add network 144.145.0.0/16 
+
+bgp router AS65535 add network 255.255.0.0/16 
+
+bgp router AS37259 add network 145.139.0.0/16 
+
+bgp router AS65329 add network 255.49.0.0/16 
+
+bgp router AS43833 add network 171.57.0.0/16 
+
+bgp router AS33062 add network 129.38.0.0/16 
+
+bgp router AS37603 add network 146.227.0.0/16 
+
+bgp router AS7132 add network 27.220.0.0/16 
+
+bgp router AS37488 add network 146.112.0.0/16 
+
+bgp router AS37548 add network 146.172.0.0/16 
+
+bgp router AS37271 add network 145.151.0.0/16 
+
+bgp router AS37079 add network 144.215.0.0/16 
+
+bgp router AS37146 add network 145.26.0.0/16 
+
+bgp router AS42109 add network 164.125.0.0/16 
+
+bgp router AS33668 add network 131.132.0.0/16 
+
+bgp router AS23899 add network 93.91.0.0/16 
+
+bgp router AS37342 add network 145.222.0.0/16 
+
+bgp router AS37475 add network 146.99.0.0/16 
+
+bgp router AS44953 add network 175.153.0.0/16 
+
+bgp router AS37190 add network 145.70.0.0/16 
+
+bgp router AS5163 add network 20.43.0.0/16 
+
+bgp router AS12129 add network 47.97.0.0/16 
+
+bgp router AS37244 add network 145.124.0.0/16 
+
+bgp router AS4538 add network 17.186.0.0/16 
+
+bgp router AS6212 add network 24.68.0.0/16 
+
+bgp router AS4761 add network 18.153.0.0/16 
+
+bgp router AS7407 add network 28.239.0.0/16 
+
+bgp router AS37524 add network 146.148.0.0/16 
+
+bgp router AS9919 add network 38.191.0.0/16 
+
+bgp router AS12570 add network 49.26.0.0/16 
+
+bgp router AS33567 add network 131.31.0.0/16 
+
+bgp router AS28202 add network 110.42.0.0/16 
+
+bgp router AS37411 add network 146.35.0.0/16 
+
+bgp router AS4621 add network 18.13.0.0/16 
+
+bgp router AS3316 add network 12.244.0.0/16 
+
+bgp router AS3913 add network 15.73.0.0/16 
+
+bgp router AS37278 add network 145.158.0.0/16 
+
+bgp router AS36925 add network 144.61.0.0/16 
+
+bgp router AS20884 add network 81.148.0.0/16 
+
+bgp router AS6251 add network 24.107.0.0/16 
+
+bgp router AS4565 add network 17.213.0.0/16 
+
+bgp router AS37279 add network 145.159.0.0/16 
+
+bgp router AS17175 add network 67.23.0.0/16 
+
+bgp router AS37516 add network 146.140.0.0/16 
+
+bgp router AS65066 add network 254.42.0.0/16 
+
+bgp router AS51910 add network 202.198.0.0/16 
+
+bgp router AS44581 add network 174.37.0.0/16 
+
+bgp router AS9790 add network 38.62.0.0/16 
+
+bgp router AS21271 add network 83.23.0.0/16 
+
+bgp router AS28548 add network 111.132.0.0/16 
+
+bgp router AS37261 add network 145.141.0.0/16 
+
+bgp router AS9398 add network 36.182.0.0/16 
+
+bgp router AS21282 add network 83.34.0.0/16 
+
+bgp router AS49185 add network 192.33.0.0/16 
+
+bgp router AS35313 add network 137.241.0.0/16 
+
+bgp router AS65287 add network 255.7.0.0/16 
+
+bgp router AS38264 add network 149.120.0.0/16 
+
+bgp router AS36918 add network 144.54.0.0/16 
+
+bgp router AS28885 add network 112.213.0.0/16 
+
+bgp router AS24835 add network 97.3.0.0/16 
+
+bgp router AS42610 add network 166.114.0.0/16 
+
+bgp router AS3816 add network 14.232.0.0/16 
+
+bgp router AS4805 add network 18.197.0.0/16 
+
+bgp router AS39205 add network 153.37.0.0/16 
+
+bgp router AS2614 add network 10.54.0.0/16 
+
+bgp router AS12552 add network 49.8.0.0/16 
+
+bgp router AS4436 add network 17.84.0.0/16 
+
+bgp router AS41960 add network 163.232.0.0/16 
+
+bgp router AS15808 add network 61.192.0.0/16 
+
+bgp router AS58587 add network 228.219.0.0/16 
+
+bgp router AS28666 add network 111.250.0.0/16 
+
+bgp router AS37403 add network 146.27.0.0/16 
+
+bgp router AS37545 add network 146.169.0.0/16 
+
+bgp router AS37591 add network 146.215.0.0/16 
+
+bgp router AS64734 add network 252.222.0.0/16 
+
+bgp router AS9318 add network 36.102.0.0/16 
+
+bgp router AS12956 add network 50.156.0.0/16 
+
+bgp router AS53292 add network 208.44.0.0/16 
+
+bgp router AS37149 add network 145.29.0.0/16 
+
+bgp router AS37616 add network 146.240.0.0/16 
+
+bgp router AS46786 add network 182.194.0.0/16 
+
+bgp router AS8657 add network 33.209.0.0/16 
+
+bgp router AS21859 add network 85.99.0.0/16 
+
+bgp router AS28683 add network 112.11.0.0/16 
+
+bgp router AS64827 add network 253.59.0.0/16 
+
+bgp router AS8560 add network 33.112.0.0/16 
+
+bgp router AS37483 add network 146.107.0.0/16 
+
+bgp router AS18931 add network 73.243.0.0/16 
+
+bgp router AS49507 add network 193.99.0.0/16 
+
+bgp router AS37364 add network 145.244.0.0/16 
+
+bgp router AS37098 add network 144.234.0.0/16 
+
+bgp router AS37546 add network 146.170.0.0/16 
+
+bgp router AS23962 add network 93.154.0.0/16 
+
+bgp router AS8580 add network 33.132.0.0/16 
+
+bgp router AS12731 add network 49.187.0.0/16 
+
+bgp router AS25133 add network 98.45.0.0/16 
+
+bgp router AS51964 add network 202.252.0.0/16 
+
+bgp router AS4270 add network 16.174.0.0/16 
+
+bgp router AS37337 add network 145.217.0.0/16 
+
+bgp router AS6128 add network 23.240.0.0/16 
+
+bgp router AS7543 add network 29.119.0.0/16 
+
+bgp router AS21219 add network 82.227.0.0/16 
+
+bgp router AS26484 add network 103.116.0.0/16 
+
+bgp router AS18042 add network 70.122.0.0/16 
+
+bgp router AS37239 add network 145.119.0.0/16 
+
+bgp router AS64718 add network 252.206.0.0/16 
+
+bgp router AS6238 add network 24.94.0.0/16 
+
+bgp router AS17439 add network 68.31.0.0/16 
+
+bgp router AS9049 add network 35.89.0.0/16 
+
+bgp router AS6215 add network 24.71.0.0/16 
+
+bgp router AS36914 add network 144.50.0.0/16 
+
+bgp router AS4713 add network 18.105.0.0/16 
+
+bgp router AS21430 add network 83.182.0.0/16 
+
+bgp router AS31932 add network 124.188.0.0/16 
+
+bgp router AS65496 add network 255.216.0.0/16 
+
+bgp router AS37246 add network 145.126.0.0/16 
+
+bgp router AS1120 add network 4.96.0.0/16 
+
+bgp router AS37390 add network 146.14.0.0/16 
+
+bgp router AS25192 add network 98.104.0.0/16 
+
+bgp router AS20875 add network 81.139.0.0/16 
+
+bgp router AS41345 add network 161.129.0.0/16 
+
+bgp router AS11096 add network 43.88.0.0/16 
+
+bgp router AS2609 add network 10.49.0.0/16 
+
+bgp router AS37287 add network 145.167.0.0/16 
+
+bgp router AS7572 add network 29.148.0.0/16 
+
+bgp router AS37609 add network 146.233.0.0/16 
+
+bgp router AS10094 add network 39.110.0.0/16 
+
+bgp router AS16214 add network 63.86.0.0/16 
+
+bgp router AS5518 add network 21.142.0.0/16 
+
+bgp router AS15412 add network 60.52.0.0/16 
+
+bgp router AS37590 add network 146.214.0.0/16 
+
+bgp router AS37185 add network 145.65.0.0/16 
+
+bgp router AS8866 add network 34.162.0.0/16 
+
+bgp router AS5377 add network 21.1.0.0/16 
+
+bgp router AS1221 add network 4.197.0.0/16 
+
+bgp router AS37630 add network 146.254.0.0/16 
+
+bgp router AS37333 add network 145.213.0.0/16 
+
+bgp router AS57023 add network 222.191.0.0/16 
+
+bgp router AS30868 add network 120.148.0.0/16 
+
+bgp router AS1216 add network 4.192.0.0/16 
+
+bgp router AS37443 add network 146.67.0.0/16 
+
+bgp router AS7574 add network 29.150.0.0/16 
+
+bgp router AS50481 add network 197.49.0.0/16 
+
+bgp router AS37438 add network 146.62.0.0/16 
+
+bgp router AS37567 add network 146.191.0.0/16 
+
+bgp router AS37449 add network 146.73.0.0/16 
+
+bgp router AS36926 add network 144.62.0.0/16 
+
+bgp router AS37452 add network 146.76.0.0/16 
+
+bgp router AS5884 add network 22.252.0.0/16 
+
+bgp router AS36867 add network 144.3.0.0/16 
+
+bgp router AS37612 add network 146.236.0.0/16 
+
+bgp router AS6739 add network 26.83.0.0/16 
+
+bgp router AS3741 add network 14.157.0.0/16 
+
+bgp router AS33965 add network 132.173.0.0/16 
+
+bgp router AS28168 add network 110.8.0.0/16 
+
+bgp router AS36909 add network 144.45.0.0/16 
+
+bgp router AS36883 add network 144.19.0.0/16 
+
+bgp router AS64724 add network 252.212.0.0/16 
+
+bgp router AS3257 add network 12.185.0.0/16 
+
+bgp router AS2195 add network 8.147.0.0/16 
+
+bgp router AS36969 add network 144.105.0.0/16 
+
+bgp router AS3212 add network 12.140.0.0/16 
+
+bgp router AS50673 add network 197.241.0.0/16 
+
+bgp router AS4558 add network 17.206.0.0/16 
+
+bgp router AS12831 add network 50.31.0.0/16 
+
+bgp router AS37027 add network 144.163.0.0/16 
+
+bgp router AS37662 add network 147.30.0.0/16 
+
+bgp router AS29614 add network 115.174.0.0/16 
+
+bgp router AS34584 add network 135.24.0.0/16 
+
+bgp router AS37183 add network 145.63.0.0/16 
+
+bgp router AS2516 add network 9.212.0.0/16 
+
+bgp router AS6667 add network 26.11.0.0/16 
+
+bgp router AS18403 add network 71.227.0.0/16 
+
+bgp router AS6768 add network 26.112.0.0/16 
+
+bgp router AS11385 add network 44.121.0.0/16 
+
+bgp router AS37222 add network 145.102.0.0/16 
+
+bgp router AS37398 add network 146.22.0.0/16 
+
+bgp router AS24955 add network 97.123.0.0/16 
+
+bgp router AS6503 add network 25.103.0.0/16 
+
+bgp router AS37150 add network 145.30.0.0/16 
+
+bgp router AS5568 add network 21.192.0.0/16 
+
+bgp router AS5438 add network 21.62.0.0/16 
+
+bgp router AS5645 add network 22.13.0.0/16 
+
+bgp router AS37425 add network 146.49.0.0/16 
+
+bgp router AS2607 add network 10.47.0.0/16 
+
+bgp router AS36884 add network 144.20.0.0/16 
+
+bgp router AS37156 add network 145.36.0.0/16 
+
+bgp router AS65001 add network 253.233.0.0/16 
+
+bgp router AS27817 add network 108.169.0.0/16 
+
+bgp router AS57734 add network 225.134.0.0/16 
+
+bgp router AS15669 add network 61.53.0.0/16 
+
+bgp router AS13354 add network 52.42.0.0/16 
+
+bgp router AS36978 add network 144.114.0.0/16 
+
+bgp router AS32717 add network 127.205.0.0/16 
+
+bgp router AS37313 add network 145.193.0.0/16 
+
+bgp router AS35329 add network 138.1.0.0/16 
+
+bgp router AS37451 add network 146.75.0.0/16 
+
+bgp router AS6695 add network 26.39.0.0/16 
+
+bgp router AS37233 add network 145.113.0.0/16 
+
+bgp router AS34224 add network 133.176.0.0/16 
+
+bgp router AS3267 add network 12.195.0.0/16 
+
+bgp router AS209 add network 0.209.0.0/16 
+
+bgp router AS37075 add network 144.211.0.0/16 
+
+bgp router AS25761 add network 100.161.0.0/16 
+
+bgp router AS6108 add network 23.220.0.0/16 
+
+bgp router AS36943 add network 144.79.0.0/16 
+
+bgp router AS30619 add network 119.155.0.0/16 
+
+bgp router AS51944 add network 202.232.0.0/16 
+
+bgp router AS12091 add network 47.59.0.0/16 
+
+bgp router AS21013 add network 82.21.0.0/16 
+
+bgp router AS23889 add network 93.81.0.0/16 
+
+bgp router AS9658 add network 37.186.0.0/16 
+
+bgp router AS8473 add network 33.25.0.0/16 
+
+bgp router AS5226 add network 20.106.0.0/16 
+
+bgp router AS45898 add network 179.74.0.0/16 
+
+bgp router AS18046 add network 70.126.0.0/16 
+
+bgp router AS37265 add network 145.145.0.0/16 
+
+bgp router AS9304 add network 36.88.0.0/16 
+
+bgp router AS21007 add network 82.15.0.0/16 
+
+bgp router AS37228 add network 145.108.0.0/16 
+
+bgp router AS37216 add network 145.96.0.0/16 
+
+bgp router AS64561 add network 252.49.0.0/16 
+
+bgp router AS22690 add network 88.162.0.0/16 
+
+bgp router AS45177 add network 176.121.0.0/16 
+
+bgp router AS37541 add network 146.165.0.0/16 
+
+bgp router AS27896 add network 108.248.0.0/16 
+
+bgp router AS2603 add network 10.43.0.0/16 
+
+bgp router AS10429 add network 40.189.0.0/16 
+
+bgp router AS46926 add network 183.78.0.0/16 
+
+bgp router AS45926 add network 179.102.0.0/16 
+
+bgp router AS37165 add network 145.45.0.0/16 
+
+bgp router AS37675 add network 147.43.0.0/16 
+
+bgp router AS37045 add network 144.181.0.0/16 
+
+bgp router AS50607 add network 197.175.0.0/16 
+
+bgp router AS7004 add network 27.92.0.0/16 
+
+bgp router AS17639 add network 68.231.0.0/16 
+
+bgp router AS8763 add network 34.59.0.0/16 
+
+bgp router AS37247 add network 145.127.0.0/16 
+
+bgp router AS13037 add network 50.237.0.0/16 
+
+bgp router AS1050 add network 4.26.0.0/16 
+
+bgp router AS37448 add network 146.72.0.0/16 
+
+bgp router AS6879 add network 26.223.0.0/16 
+
+bgp router AS19151 add network 74.207.0.0/16 
+
+bgp router AS15704 add network 61.88.0.0/16 
+
+bgp router AS16175 add network 63.47.0.0/16 
+
+bgp router AS1239 add network 4.215.0.0/16 
+
+bgp router AS11835 add network 46.59.0.0/16 
+
+bgp router AS6211 add network 24.67.0.0/16 
+
+bgp router AS33778 add network 131.242.0.0/16 
+
+bgp router AS6252 add network 24.108.0.0/16 
+
+bgp router AS12346 add network 48.58.0.0/16 
+
+bgp router AS4862 add network 18.254.0.0/16 
+
+bgp router AS37249 add network 145.129.0.0/16 
+
+bgp router AS36965 add network 144.101.0.0/16 
+
+bgp router AS43110 add network 168.102.0.0/16 
+
+bgp router AS21392 add network 83.144.0.0/16 
+
+bgp router AS45538 add network 177.226.0.0/16 
+
+bgp router AS36936 add network 144.72.0.0/16 
+
+bgp router AS9848 add network 38.120.0.0/16 
+
+bgp router AS2914 add network 11.98.0.0/16 
+
+bgp router AS37229 add network 145.109.0.0/16 
+
+bgp router AS37106 add network 144.242.0.0/16 
+
+bgp router AS37163 add network 145.43.0.0/16 
+
+bgp router AS12322 add network 48.34.0.0/16 
+
+bgp router AS702 add network 2.190.0.0/16 
+
+bgp router AS28396 add network 110.236.0.0/16 
+
+bgp router AS6746 add network 26.90.0.0/16 
+
+bgp router AS5617 add network 21.241.0.0/16 
+
+bgp router AS6789 add network 26.133.0.0/16 
+
+bgp router AS25364 add network 99.20.0.0/16 
+
+bgp router AS36970 add network 144.106.0.0/16 
+
+bgp router AS36958 add network 144.94.0.0/16 
+
+bgp router AS8437 add network 32.245.0.0/16 
+
+bgp router AS5883 add network 22.251.0.0/16 
+
+bgp router AS37594 add network 146.218.0.0/16 
+
+bgp router AS36998 add network 144.134.0.0/16 
+
+bgp router AS5483 add network 21.107.0.0/16 
+
+bgp router AS37052 add network 144.188.0.0/16 
+
+bgp router AS23862 add network 93.54.0.0/16 
+
+bgp router AS23655 add network 92.103.0.0/16 
+
+bgp router AS31595 add network 123.107.0.0/16 
+
+bgp router AS4779 add network 18.171.0.0/16 
+
+bgp router AS11992 add network 46.216.0.0/16 
+
+bgp router AS25543 add network 99.199.0.0/16 
+
+bgp router AS37305 add network 145.185.0.0/16 
+
+bgp router AS37129 add network 145.9.0.0/16 
+
+bgp router AS6908 add network 26.252.0.0/16 
+
+bgp router AS37434 add network 146.58.0.0/16 
+
+bgp router AS6769 add network 26.113.0.0/16 
+
+bgp router AS36955 add network 144.91.0.0/16 
+
+bgp router AS5885 add network 22.253.0.0/16 
+
+bgp router AS12859 add network 50.59.0.0/16 
+
+bgp router AS12653 add network 49.109.0.0/16 
+
+bgp router AS15830 add network 61.214.0.0/16 
+
+bgp router AS65501 add network 255.221.0.0/16 
+
+bgp router AS23520 add network 91.224.0.0/16 
+
+bgp router AS52521 add network 205.41.0.0/16 
+
+bgp router AS8603 add network 33.155.0.0/16 
+
+bgp router AS37446 add network 146.70.0.0/16 
+
+bgp router AS11845 add network 46.69.0.0/16 
+
+bgp router AS39356 add network 153.188.0.0/16 
+
+bgp router AS37623 add network 146.247.0.0/16 
+
+bgp router AS12440 add network 48.152.0.0/16 
+
+bgp router AS37281 add network 145.161.0.0/16 
+
+bgp router AS37584 add network 146.208.0.0/16 
+
+bgp router AS852 add network 3.84.0.0/16 
+
+bgp router AS4766 add network 18.158.0.0/16 
+
+bgp router AS36992 add network 144.128.0.0/16 
+
+bgp router AS35054 add network 136.238.0.0/16 
+
+bgp router AS37497 add network 146.121.0.0/16 
+
+bgp router AS36962 add network 144.98.0.0/16 
+
+bgp router AS37366 add network 145.246.0.0/16 
+
+bgp router AS20940 add network 81.204.0.0/16 
+
+bgp router AS37660 add network 147.28.0.0/16 
+
+bgp router AS6277 add network 24.133.0.0/16 
+
+bgp router AS21414 add network 83.166.0.0/16 
+
+bgp router AS36887 add network 144.23.0.0/16 
+
+bgp router AS37695 add network 147.63.0.0/16 
+
+bgp router AS37307 add network 145.187.0.0/16 
+
+bgp router AS11670 add network 45.150.0.0/16 
+
+bgp router AS37565 add network 146.189.0.0/16 
+
+bgp router AS9700 add network 37.228.0.0/16 
+
+bgp router AS31242 add network 122.10.0.0/16 
+
+bgp router AS6360 add network 24.216.0.0/16 
+
+bgp router AS7049 add network 27.137.0.0/16 
+
+bgp router AS29988 add network 117.36.0.0/16 
+
+bgp router AS37263 add network 145.143.0.0/16 
+
+bgp router AS42318 add network 165.78.0.0/16 
+
+bgp router AS37382 add network 146.6.0.0/16 
+
+bgp router AS24961 add network 97.129.0.0/16 
+
+bgp router AS6461 add network 25.61.0.0/16 
+
+bgp router AS42235 add network 164.251.0.0/16 
+
+bgp router AS18895 add network 73.207.0.0/16 
+
+bgp router AS22822 add network 89.38.0.0/16 
+
+bgp router AS12189 add network 47.157.0.0/16 
+
+bgp router AS65100 add network 254.76.0.0/16 
+
+bgp router AS36905 add network 144.41.0.0/16 
+
+bgp router AS41066 add network 160.106.0.0/16 
+
+bgp router AS6471 add network 25.71.0.0/16 
+
+bgp router AS37137 add network 145.17.0.0/16 
+
+bgp router AS23058 add network 90.18.0.0/16 
+
+bgp router AS49505 add network 193.97.0.0/16 
+
+bgp router AS64555 add network 252.43.0.0/16 
+
+bgp router AS7606 add network 29.182.0.0/16 
+
+bgp router AS50173 add network 195.253.0.0/16 
+
+bgp router AS11172 add network 43.164.0.0/16 
+
+bgp router AS11115 add network 43.107.0.0/16 
+
+bgp router AS30982 add network 121.6.0.0/16 
+
+bgp router AS7643 add network 29.219.0.0/16 
+
+bgp router AS37043 add network 144.179.0.0/16 
+
+bgp router AS37520 add network 146.144.0.0/16 
+
+bgp router AS26788 add network 104.164.0.0/16 
+
+bgp router AS3561 add network 13.233.0.0/16 
+
+bgp router AS28145 add network 109.241.0.0/16 
+
+bgp router AS7154 add network 27.242.0.0/16 
+
+bgp router AS23930 add network 93.122.0.0/16 
+
+bgp router AS9198 add network 35.238.0.0/16 
+
+bgp router AS65352 add network 255.72.0.0/16 
+
+bgp router AS8359 add network 32.167.0.0/16 
+
+bgp router AS18747 add network 73.59.0.0/16 
+
+bgp router AS3216 add network 12.144.0.0/16 
+
+bgp router AS10881 add network 42.129.0.0/16 
+
+bgp router AS25542 add network 99.198.0.0/16 
+
+bgp router AS43513 add network 169.249.0.0/16 
+
+bgp router AS37667 add network 147.35.0.0/16 
+
+bgp router AS37334 add network 145.214.0.0/16 
+
+bgp router AS37571 add network 146.195.0.0/16 
+
+bgp router AS12874 add network 50.74.0.0/16 
+
+bgp router AS2611 add network 10.51.0.0/16 
+
+bgp router AS294 add network 1.38.0.0/16 
+
+bgp router AS8551 add network 33.103.0.0/16 
+
+bgp router AS15348 add network 59.244.0.0/16 
+
+bgp router AS4913 add network 19.49.0.0/16 
+
+bgp router AS16891 add network 65.251.0.0/16 
+
+bgp router AS37030 add network 144.166.0.0/16 
+
+bgp router AS3208 add network 12.136.0.0/16 
+
+bgp router AS24748 add network 96.172.0.0/16 
+
+bgp router AS16594 add network 64.210.0.0/16 
+
+bgp router AS44158 add network 172.126.0.0/16 
+
+bgp router AS4341 add network 16.245.0.0/16 
+
+bgp router AS2588 add network 10.28.0.0/16 
+
+bgp router AS24093 add network 94.29.0.0/16 
+
+bgp router AS33769 add network 131.233.0.0/16 
+
+bgp router AS8674 add network 33.226.0.0/16 
+
+bgp router AS58552 add network 228.184.0.0/16 
+
+bgp router AS1680 add network 6.144.0.0/16 
+
+bgp router AS37127 add network 145.7.0.0/16 
+
+bgp router AS2856 add network 11.40.0.0/16 
+
+bgp router AS8513 add network 33.65.0.0/16 
+
+bgp router AS42979 add network 167.227.0.0/16 
+
+bgp router AS37225 add network 145.105.0.0/16 
+
+bgp router AS34306 add network 134.2.0.0/16 
+
+bgp router AS22351 add network 87.79.0.0/16 
+
+bgp router AS23352 add network 91.56.0.0/16 
+
+bgp router AS11014 add network 43.6.0.0/16 
+
+bgp router AS5164 add network 20.44.0.0/16 
+
+bgp router AS8764 add network 34.60.0.0/16 
+
+bgp router AS38456 add network 150.56.0.0/16 
+
+bgp router AS37199 add network 145.79.0.0/16 
+
+bgp router AS37512 add network 146.136.0.0/16 
+
+bgp router AS41072 add network 160.112.0.0/16 
+
+bgp router AS30986 add network 121.10.0.0/16 
+
+bgp router AS49549 add network 193.141.0.0/16 
+
+bgp router AS20850 add network 81.114.0.0/16 
+
+bgp router AS31214 add network 121.238.0.0/16 
+
+bgp router AS2854 add network 11.38.0.0/16 
+
+bgp router AS36678 add network 143.70.0.0/16 
+
+bgp router AS40193 add network 157.1.0.0/16 
+
+bgp router AS37622 add network 146.246.0.0/16 
+
+bgp router AS43061 add network 168.53.0.0/16 
+
+bgp router AS37469 add network 146.93.0.0/16 
+
+bgp router AS6256 add network 24.112.0.0/16 
+
+bgp router AS46064 add network 179.240.0.0/16 
+
+bgp router AS38193 add network 149.49.0.0/16 
+
+bgp router AS38561 add network 150.161.0.0/16 
+
+bgp router AS37521 add network 146.145.0.0/16 
+
+bgp router AS24151 add network 94.87.0.0/16 
+
+bgp router AS37529 add network 146.153.0.0/16 
+
+bgp router AS1241 add network 4.217.0.0/16 
+
+bgp router AS625 add network 2.113.0.0/16 
+
+bgp router AS2018 add network 7.226.0.0/16 
+
+bgp router AS5550 add network 21.174.0.0/16 
+
+bgp router AS37004 add network 144.140.0.0/16 
+
+bgp router AS37537 add network 146.161.0.0/16 
+
+bgp router AS9560 add network 37.88.0.0/16 
+
+bgp router AS33770 add network 131.234.0.0/16 
+
+bgp router AS26130 add network 102.18.0.0/16 
+
+bgp router AS37318 add network 145.198.0.0/16 
+
+bgp router AS44356 add network 173.68.0.0/16 
+
+bgp router AS25152 add network 98.64.0.0/16 
+
+bgp router AS8304 add network 32.112.0.0/16 
+
+bgp router AS17511 add network 68.103.0.0/16 
+
+bgp router AS37519 add network 146.143.0.0/16 
+
+bgp router AS6218 add network 24.74.0.0/16 
+
+bgp router AS7303 add network 28.135.0.0/16 
+
+bgp router AS30990 add network 121.14.0.0/16 
+
+bgp router AS37144 add network 145.24.0.0/16 
+
+bgp router AS37338 add network 145.218.0.0/16 
+
+bgp router AS12556 add network 49.12.0.0/16 
+
+bgp router AS17762 add network 69.98.0.0/16 
+
+bgp router AS6228 add network 24.84.0.0/16 
+
+bgp router AS37057 add network 144.193.0.0/16 
+
+bgp router AS34863 add network 136.47.0.0/16 
+
+bgp router AS9874 add network 38.146.0.0/16 
+
+bgp router AS26554 add network 103.186.0.0/16 
+
+bgp router AS30167 add network 117.215.0.0/16 
+
+bgp router AS36880 add network 144.16.0.0/16 
+
+bgp router AS37141 add network 145.21.0.0/16 
+
+bgp router AS39197 add network 153.29.0.0/16 
+
+bgp router AS37671 add network 147.39.0.0/16 
+
+bgp router AS37399 add network 146.23.0.0/16 
+
+bgp router AS43076 add network 168.68.0.0/16 
+
+bgp router AS36930 add network 144.66.0.0/16 
+
+bgp router AS15399 add network 60.39.0.0/16 
+
+bgp router AS11423 add network 44.159.0.0/16 
+
+bgp router AS37437 add network 146.61.0.0/16 
+
+bgp router AS15164 add network 59.60.0.0/16 
+
+bgp router AS23148 add network 90.108.0.0/16 
+
+bgp router AS1136 add network 4.112.0.0/16 
+
+bgp router AS36865 add network 144.1.0.0/16 
+
+bgp router AS37159 add network 145.39.0.0/16 
+
+bgp router AS38861 add network 151.205.0.0/16 
+
+bgp router AS2715 add network 10.155.0.0/16 
+
+bgp router AS41457 add network 161.241.0.0/16 
+
+bgp router AS24475 add network 95.155.0.0/16 
+
+bgp router AS3462 add network 13.134.0.0/16 
+
+bgp router AS37579 add network 146.203.0.0/16 
+
+bgp router AS3255 add network 12.183.0.0/16 
+
+bgp router AS5713 add network 22.81.0.0/16 
+
+bgp router AS16814 add network 65.174.0.0/16 
+
+bgp router AS33772 add network 131.236.0.0/16 
+
+bgp router AS5391 add network 21.15.0.0/16 
+
+bgp router AS2500 add network 9.196.0.0/16 
+
+bgp router AS37193 add network 145.73.0.0/16 
+
+bgp router AS37008 add network 144.144.0.0/16 
+
+bgp router AS36941 add network 144.77.0.0/16 
+
+bgp router AS5413 add network 21.37.0.0/16 
+
+bgp router AS8953 add network 34.249.0.0/16 
+
+bgp router AS56696 add network 221.120.0.0/16 
+
+bgp router AS3252 add network 12.180.0.0/16 
+
+bgp router AS37266 add network 145.146.0.0/16 
+
+bgp router AS15645 add network 61.29.0.0/16 
+
+bgp router AS45528 add network 177.216.0.0/16 
+
+bgp router AS36915 add network 144.51.0.0/16 
+
+bgp router AS37063 add network 144.199.0.0/16 
+
+bgp router AS36923 add network 144.59.0.0/16 
+
+bgp router AS11058 add network 43.50.0.0/16 
+
+bgp router AS37454 add network 146.78.0.0/16 
+
+bgp router AS25447 add network 99.103.0.0/16 
+
+bgp router AS12690 add network 49.146.0.0/16 
+
+bgp router AS37474 add network 146.98.0.0/16 
+
+bgp router AS4837 add network 18.229.0.0/16 
+
+bgp router AS10834 add network 42.82.0.0/16 
+
+bgp router AS27810 add network 108.162.0.0/16 
+
+bgp router AS22927 add network 89.143.0.0/16 
+
+bgp router AS37638 add network 147.6.0.0/16 
+
+bgp router AS55329 add network 216.33.0.0/16 
+
+bgp router AS37213 add network 145.93.0.0/16 
+
+bgp router AS35699 add network 139.115.0.0/16 
+
+bgp router AS37693 add network 147.61.0.0/16 
+
+bgp router AS31856 add network 124.112.0.0/16 
+
+bgp router AS29066 add network 113.138.0.0/16 
+
+bgp router AS37472 add network 146.96.0.0/16 
+
+bgp router AS16637 add network 64.253.0.0/16 
+
+bgp router AS64652 add network 252.140.0.0/16 
+
+bgp router AS64984 add network 253.216.0.0/16 
+
+bgp router AS20632 add network 80.152.0.0/16 
+
+bgp router AS1887 add network 7.95.0.0/16 
+
+bgp router AS36902 add network 144.38.0.0/16 
+
+bgp router AS37280 add network 145.160.0.0/16 
+
+bgp router AS29091 add network 113.163.0.0/16 
+
+bgp router AS33779 add network 131.243.0.0/16 
+
+bgp router AS9443 add network 36.227.0.0/16 
+
+bgp router AS37445 add network 146.69.0.0/16 
+
+bgp router AS35254 add network 137.182.0.0/16 
+
+bgp router AS58463 add network 228.95.0.0/16 
+
+bgp router AS24593 add network 96.17.0.0/16 
+
+bgp router AS52579 add network 205.99.0.0/16 
+
+bgp router AS39728 add network 155.48.0.0/16 
+
+bgp router AS37556 add network 146.180.0.0/16 
+
+bgp router AS5578 add network 21.202.0.0/16 
+
+bgp router AS23523 add network 91.227.0.0/16 
+
+bgp router AS37646 add network 147.14.0.0/16 
+
+bgp router AS3352 add network 13.24.0.0/16 
+
+bgp router AS6233 add network 24.89.0.0/16 
+
+bgp router AS42739 add network 166.243.0.0/16 
+
+bgp router AS9484 add network 37.12.0.0/16 
+
+bgp router AS37408 add network 146.32.0.0/16 
+
+bgp router AS24029 add network 93.221.0.0/16 
+
+bgp router AS33786 add network 131.250.0.0/16 
+
+bgp router AS29648 add network 115.208.0.0/16 
+
+bgp router AS35320 add network 137.248.0.0/16 
+
+bgp router AS33777 add network 131.241.0.0/16 
+
+bgp router AS41847 add network 163.119.0.0/16 
+
+bgp router AS567 add network 2.55.0.0/16 
+
+bgp router AS38082 add network 148.194.0.0/16 
+
+bgp router AS27908 add network 109.4.0.0/16 
+
+bgp router AS12615 add network 49.71.0.0/16 
+
+bgp router AS37003 add network 144.139.0.0/16 
+
+bgp router AS24287 add network 94.223.0.0/16 
+
+bgp router AS37610 add network 146.234.0.0/16 
+
+bgp router AS422 add network 1.166.0.0/16 
+
+bgp router AS3549 add network 13.221.0.0/16 
+
+bgp router AS8151 add network 31.215.0.0/16 
+
+bgp router AS37296 add network 145.176.0.0/16 
+
+bgp router AS37549 add network 146.173.0.0/16 
+
+bgp router AS8100 add network 31.164.0.0/16 
+
+bgp router AS8591 add network 33.143.0.0/16 
+
+bgp router AS5734 add network 22.102.0.0/16 
+
+bgp router AS61568 add network 240.128.0.0/16 
+
+bgp router AS20764 add network 81.28.0.0/16 
+
+bgp router AS9822 add network 38.94.0.0/16 
+
+bgp router AS37358 add network 145.238.0.0/16 
+
+bgp router AS24989 add network 97.157.0.0/16 
+
+bgp router AS5539 add network 21.163.0.0/16 
+
+bgp router AS36999 add network 144.135.0.0/16 
+
+bgp router AS37417 add network 146.41.0.0/16 
+
+bgp router AS23745 add network 92.193.0.0/16 
+
+bgp router AS25795 add network 100.195.0.0/16 
+
+bgp router AS51048 add network 199.104.0.0/16 
+
+bgp router AS37357 add network 145.237.0.0/16 
+
+bgp router AS43022 add network 168.14.0.0/16 
+
+bgp router AS64566 add network 252.54.0.0/16 
+
+bgp router AS6276 add network 24.132.0.0/16 
+
+bgp router AS8508 add network 33.60.0.0/16 
+
+bgp router AS38930 add network 152.18.0.0/16 
+
+bgp router AS2907 add network 11.91.0.0/16 
+
+bgp router AS58941 add network 230.61.0.0/16 
+
+bgp router AS45147 add network 176.91.0.0/16 
+
+bgp router AS13307 add network 51.251.0.0/16 
+
+bgp router AS36872 add network 144.8.0.0/16 
+
+bgp router AS7713 add network 30.33.0.0/16 
+
+bgp router AS13345 add network 52.33.0.0/16 
+
+bgp router AS8220 add network 32.28.0.0/16 
+
+bgp router AS21057 add network 82.65.0.0/16 
+
+bgp router AS37160 add network 145.40.0.0/16 
+
+bgp router AS2711 add network 10.151.0.0/16 
+
+bgp router AS7481 add network 29.57.0.0/16 
+
+bgp router AS37014 add network 144.150.0.0/16 
+
+bgp router AS60280 add network 235.120.0.0/16 
+
+bgp router AS677 add network 2.165.0.0/16 
+
+bgp router AS37430 add network 146.54.0.0/16 
+
+bgp router AS37384 add network 146.8.0.0/16 
+
+bgp router AS2543 add network 9.239.0.0/16 
+
+bgp router AS2686 add network 10.126.0.0/16 
+
+bgp router AS1273 add network 4.249.0.0/16 
+
+bgp router AS4230 add network 16.134.0.0/16 
+
+bgp router AS6830 add network 26.174.0.0/16 
+
+bgp router AS7922 add network 30.242.0.0/16 
+
+bgp router AS8346 add network 32.154.0.0/16 
+
+bgp router AS15685 add network 61.69.0.0/16 
+
+bgp router AS41095 add network 160.135.0.0/16 
+
+bgp router AS12542 add network 48.254.0.0/16 
+
+bgp router AS37654 add network 147.22.0.0/16 
+
+bgp router AS9299 add network 36.83.0.0/16 
+
+bgp router AS37586 add network 146.210.0.0/16 
+
+bgp router AS37031 add network 144.167.0.0/16 
+
+bgp router AS11798 add network 46.22.0.0/16 
+
+bgp router AS4342 add network 16.246.0.0/16 
+
+bgp router AS37192 add network 145.72.0.0/16 
+
+bgp router AS5992 add network 23.104.0.0/16 
+
+bgp router AS28625 add network 111.209.0.0/16 
+
+bgp router AS21127 add network 82.135.0.0/16 
+
+bgp router AS37665 add network 147.33.0.0/16 
+
+bgp router AS42861 add network 167.109.0.0/16 
+
+bgp router AS37640 add network 147.8.0.0/16 
+
+bgp router AS36868 add network 144.4.0.0/16 
+
+bgp router AS12310 add network 48.22.0.0/16 
+
+bgp router AS37514 add network 146.138.0.0/16 
+
+bgp router AS23033 add network 89.249.0.0/16 
+
+bgp router AS28169 add network 110.9.0.0/16 
+
+bgp router AS18229 add network 71.53.0.0/16 
+
+bgp router AS64634 add network 252.122.0.0/16 
+
+bgp router AS29684 add network 115.244.0.0/16 
+
+bgp router AS42772 add network 167.20.0.0/16 
+
+bgp router AS37688 add network 147.56.0.0/16 
+
+bgp router AS37577 add network 146.201.0.0/16 
+
+bgp router AS1785 add network 6.249.0.0/16 
+
+bgp router AS37413 add network 146.37.0.0/16 
+
+bgp router AS4826 add network 18.218.0.0/16 
+
+bgp router AS10481 add network 40.241.0.0/16 
+
+bgp router AS29761 add network 116.65.0.0/16 
+
+bgp router AS36939 add network 144.75.0.0/16 
+
+bgp router AS36882 add network 144.18.0.0/16 
+
+bgp router AS36951 add network 144.87.0.0/16 
+
+bgp router AS28303 add network 110.143.0.0/16 
+
+bgp router AS50606 add network 197.174.0.0/16 
+
+bgp router AS37094 add network 144.230.0.0/16 
+
+bgp router AS29695 add network 115.255.0.0/16 
+
+bgp router AS5610 add network 21.234.0.0/16 
+
+bgp router AS46195 add network 180.115.0.0/16 
+
+bgp router AS37673 add network 147.41.0.0/16 
+
+bgp router AS37533 add network 146.157.0.0/16 
+
+bgp router AS2604 add network 10.44.0.0/16 
+
+bgp router AS6235 add network 24.91.0.0/16 
+
+bgp router AS37339 add network 145.219.0.0/16 
+
+bgp router AS36898 add network 144.34.0.0/16 
+
+bgp router AS37424 add network 146.48.0.0/16 
+
+bgp router AS4134 add network 16.38.0.0/16 
+
+bgp router AS48569 add network 189.185.0.0/16 
+
+bgp router AS25576 add network 99.232.0.0/16 
+
+bgp router AS65105 add network 254.81.0.0/16 
+
+bgp router AS24785 add network 96.209.0.0/16 
+
+bgp router AS9730 add network 38.2.0.0/16 
+
+bgp router AS37195 add network 145.75.0.0/16 
+
+bgp router AS60782 add network 237.110.0.0/16 
+
+bgp router AS14840 add network 57.248.0.0/16 
+
+bgp router AS19181 add network 74.237.0.0/16 
+
+bgp router AS17922 add network 70.2.0.0/16 
+
+bgp router AS15744 add network 61.128.0.0/16 
+
+bgp router AS64722 add network 252.210.0.0/16 
+
+bgp router AS37140 add network 145.20.0.0/16 
+
+bgp router AS37336 add network 145.216.0.0/16 
+
+bgp router AS36975 add network 144.111.0.0/16 
+
+bgp router AS52320 add network 204.96.0.0/16 
+
+bgp router AS7029 add network 27.117.0.0/16 
+
+bgp router AS37613 add network 146.237.0.0/16 
+
+bgp router AS40633 add network 158.185.0.0/16 
+
+bgp router AS27524 add network 107.132.0.0/16 
+
+bgp router AS37178 add network 145.58.0.0/16 
+
+bgp router AS29975 add network 117.23.0.0/16 
+
+bgp router AS37172 add network 145.52.0.0/16 
+
+bgp router AS12334 add network 48.46.0.0/16 
+
+bgp router AS36907 add network 144.43.0.0/16 
+
+bgp router AS24514 add network 95.194.0.0/16 
+
+bgp router AS17148 add network 66.252.0.0/16 
+
+bgp router AS13790 add network 53.222.0.0/16 
+
+bgp router AS37205 add network 145.85.0.0/16 
+
+bgp router AS41965 add network 163.237.0.0/16 
+
+bgp router AS37506 add network 146.130.0.0/16 
+
+bgp router AS64723 add network 252.211.0.0/16 
+
+bgp router AS25747 add network 100.147.0.0/16 
+
+bgp router AS37105 add network 144.241.0.0/16 
+
+bgp router AS7470 add network 29.46.0.0/16 
+
+bgp router AS37020 add network 144.156.0.0/16 
+
+bgp router AS37456 add network 146.80.0.0/16 
+
+bgp router AS37540 add network 146.164.0.0/16 
+
+bgp router AS37044 add network 144.180.0.0/16 
+
+bgp router AS11432 add network 44.168.0.0/16 
+
+bgp router AS18398 add network 71.222.0.0/16 
+
+bgp router AS36236 add network 141.140.0.0/16 
+
+bgp router AS3907 add network 15.67.0.0/16 
+
+bgp router AS16397 add network 64.13.0.0/16 
+
+bgp router AS48854 add network 190.214.0.0/16 
+
+bgp router AS18678 add network 72.246.0.0/16 
+
+bgp router AS14086 add network 55.6.0.0/16 
+
+bgp router AS18479 add network 72.47.0.0/16 
+
+bgp router AS38731 add network 151.75.0.0/16 
+
+bgp router AS37035 add network 144.171.0.0/16 
+
+bgp router AS52706 add network 205.226.0.0/16 
+
+bgp router AS40824 add network 159.120.0.0/16 
+
+bgp router AS19551 add network 76.95.0.0/16 
+
+bgp router AS9121 add network 35.161.0.0/16 
+
+bgp router AS45671 add network 178.103.0.0/16 
+
+bgp router AS9680 add network 37.208.0.0/16 
+
+bgp router AS22356 add network 87.84.0.0/16 
+
+bgp router AS42403 add network 165.163.0.0/16 
+
+bgp router AS1214 add network 4.190.0.0/16 
+
+bgp router AS6854 add network 26.198.0.0/16 
+
+bgp router AS11664 add network 45.144.0.0/16 
+
+bgp router AS7385 add network 28.217.0.0/16 
+
+bgp router AS20562 add network 80.82.0.0/16 
+
+bgp router AS64826 add network 253.58.0.0/16 
+
+bgp router AS13768 add network 53.200.0.0/16 
+
+bgp router AS57470 add network 224.126.0.0/16 
+
+bgp router AS13156 add network 51.100.0.0/16 
+
+bgp router AS48347 add network 188.219.0.0/16 
+
+bgp router AS23456 add network 91.160.0.0/16 
+
+bgp router AS5408 add network 21.32.0.0/16 
+
+bgp router AS37419 add network 146.43.0.0/16 
+
+bgp router AS29032 add network 113.104.0.0/16 
+
+bgp router AS6278 add network 24.134.0.0/16 
+
+bgp router AS37298 add network 145.178.0.0/16 
+
+bgp router AS37487 add network 146.111.0.0/16 
+
+bgp router AS1969 add network 7.177.0.0/16 
+
+bgp router AS56030 add network 218.222.0.0/16 
+
+bgp router AS17379 add network 67.227.0.0/16 
+
+bgp router AS6533 add network 25.133.0.0/16 
+
+bgp router AS8501 add network 33.53.0.0/16 
+
+bgp router AS30781 add network 120.61.0.0/16 
+
+bgp router AS37122 add network 145.2.0.0/16 
+
+bgp router AS13224 add network 51.168.0.0/16 
+
+bgp router AS12389 add network 48.101.0.0/16 
+
+bgp router AS11427 add network 44.163.0.0/16 
+
+bgp router AS553 add network 2.41.0.0/16 
+
+bgp router AS1257 add network 4.233.0.0/16 
+
+bgp router AS12479 add network 48.191.0.0/16 
+
+bgp router AS64731 add network 252.219.0.0/16 
+
+bgp router AS9498 add network 37.26.0.0/16 
+
+bgp router AS29649 add network 115.209.0.0/16 
+
+bgp router AS24753 add network 96.177.0.0/16 
+
+bgp router AS37429 add network 146.53.0.0/16 
+
+bgp router AS719 add network 2.207.0.0/16 
+
+bgp router AS57344 add network 224.0.0.0/16 
+
+bgp router AS37427 add network 146.51.0.0/16 
+
+bgp router AS47463 add network 185.103.0.0/16 
+
+bgp router AS34250 add network 133.202.0.0/16 
+
+bgp router AS36919 add network 144.55.0.0/16 
+
+bgp router AS376 add network 1.120.0.0/16 
+
+bgp router AS701 add network 2.189.0.0/16 
+
+bgp router AS41666 add network 162.194.0.0/16 
+
+bgp router AS623 add network 2.111.0.0/16 
+
+bgp router AS36149 add network 141.53.0.0/16 
+
+bgp router AS10026 add network 39.42.0.0/16 
+
+bgp router AS37273 add network 145.153.0.0/16 
+
+bgp router AS28698 add network 112.26.0.0/16 
+
+bgp router AS9186 add network 35.226.0.0/16 
+
+bgp router AS37690 add network 147.58.0.0/16 
+
+bgp router AS17557 add network 68.149.0.0/16 
+
+bgp router AS38742 add network 151.86.0.0/16 
+
+bgp router AS5394 add network 21.18.0.0/16 
+
+bgp router AS22386 add network 87.114.0.0/16 
+
+bgp router AS7568 add network 29.144.0.0/16 
+
+bgp router AS37463 add network 146.87.0.0/16 
+
+bgp router AS27435 add network 107.43.0.0/16 
+
+bgp router AS24130 add network 94.66.0.0/16 
+
+bgp router AS6772 add network 26.116.0.0/16 
+
+bgp router AS21488 add network 83.240.0.0/16 
+
+bgp router AS2687 add network 10.127.0.0/16 
+
+bgp router AS20144 add network 78.176.0.0/16 
+
+bgp router AS28368 add network 110.208.0.0/16 
+
+bgp router AS21396 add network 83.148.0.0/16 
+
+bgp router AS18922 add network 73.234.0.0/16 
+
+bgp router AS30023 add network 117.71.0.0/16 
+
+bgp router AS37049 add network 144.185.0.0/16 
+
+bgp router AS20484 add network 80.4.0.0/16 
+
+bgp router AS37582 add network 146.206.0.0/16 
+
+bgp router AS45246 add network 176.190.0.0/16 
+
+bgp router AS29918 add network 116.222.0.0/16 
+
+bgp router AS10022 add network 39.38.0.0/16 
+
+bgp router AS31042 add network 121.66.0.0/16 
+
+bgp router AS21011 add network 82.19.0.0/16 
+
+bgp router AS37618 add network 146.242.0.0/16 
+
+bgp router AS57731 add network 225.131.0.0/16 
+
+bgp router AS16112 add network 62.240.0.0/16 
+
+bgp router AS11942 add network 46.166.0.0/16 
+
+bgp router AS58691 add network 229.67.0.0/16 
+
+bgp router AS43668 add network 170.148.0.0/16 
+
+bgp router AS37353 add network 145.233.0.0/16 
+
+bgp router AS2497 add network 9.193.0.0/16 
+
+bgp router AS34947 add network 136.131.0.0/16 
+
+bgp router AS37194 add network 145.74.0.0/16 
+
+bgp router AS38333 add network 149.189.0.0/16 
+
+bgp router AS3437 add network 13.109.0.0/16 
+
+bgp router AS37326 add network 145.206.0.0/16 
+
+bgp router AS11164 add network 43.156.0.0/16 
+
+bgp router AS18200 add network 71.24.0.0/16 
+
+bgp router AS16160 add network 63.32.0.0/16 
+
+bgp router AS6214 add network 24.70.0.0/16 
+
+bgp router AS39386 add network 153.218.0.0/16 
+
+bgp router AS37501 add network 146.125.0.0/16 
+
+bgp router AS37447 add network 146.71.0.0/16 
+
+bgp router AS27765 add network 108.117.0.0/16 
+
+bgp router AS37028 add network 144.164.0.0/16 
+
+bgp router AS6805 add network 26.149.0.0/16 
+
+bgp router AS5583 add network 21.207.0.0/16 
+
+bgp router AS37532 add network 146.156.0.0/16 
+
+bgp router AS37578 add network 146.202.0.0/16 
+
+bgp router AS96 add network 0.96.0.0/16 
+
+bgp router AS13692 add network 53.124.0.0/16 
+
+bgp router AS36908 add network 144.44.0.0/16 
+
+bgp router AS54931 add network 214.147.0.0/16 
+
+bgp router AS37007 add network 144.143.0.0/16 
+
+bgp router AS16395 add network 64.11.0.0/16 
+
+bgp router AS59605 add network 232.213.0.0/16 
+
+bgp router AS6240 add network 24.96.0.0/16 
+
+bgp router AS32098 add network 125.98.0.0/16 
+
+bgp router AS37026 add network 144.162.0.0/16 
+
+bgp router AS2688 add network 10.128.0.0/16 
+
+bgp router AS24560 add network 95.240.0.0/16 
+
+bgp router AS36922 add network 144.58.0.0/16 
+
+bgp router AS37077 add network 144.213.0.0/16 
+
+bgp router AS37126 add network 145.6.0.0/16 
+
+bgp router AS30950 add network 120.230.0.0/16 
+
+bgp router AS29208 add network 114.24.0.0/16 
+
+bgp router AS16941 add network 66.45.0.0/16 
+
+bgp router AS36989 add network 144.125.0.0/16 
+
+bgp router AS15589 add network 60.229.0.0/16 
+
+bgp router AS18739 add network 73.51.0.0/16 
+
+bgp router AS28201 add network 110.41.0.0/16 
+
+bgp router AS8926 add network 34.222.0.0/16 
+
+bgp router AS12989 add network 50.189.0.0/16 
+
+bgp router AS23005 add network 89.221.0.0/16 
+
+bgp router AS37678 add network 147.46.0.0/16 
+
+bgp router AS8697 add network 33.249.0.0/16 
+
+bgp router AS37453 add network 146.77.0.0/16 
+
+bgp router AS3209 add network 12.137.0.0/16 
+
+bgp router AS58470 add network 228.102.0.0/16 
+
+bgp router AS42708 add network 166.212.0.0/16 
+
+bgp router AS3875 add network 15.35.0.0/16 
+
+bgp router AS3917 add network 15.77.0.0/16 
+
+bgp router AS53264 add network 208.16.0.0/16 
+
+bgp router AS36934 add network 144.70.0.0/16 
+
+bgp router AS37705 add network 147.73.0.0/16 
+
+bgp router AS44395 add network 173.107.0.0/16 
+
+bgp router AS36900 add network 144.36.0.0/16 
+
+bgp router AS36906 add network 144.42.0.0/16 
+
+bgp router AS37656 add network 147.24.0.0/16 
+
+bgp router AS37400 add network 146.24.0.0/16 
+
+bgp router AS37650 add network 147.18.0.0/16 
+
+bgp router AS5059 add network 19.195.0.0/16 
+
+bgp router AS21246 add network 82.254.0.0/16 
+
+bgp router AS21175 add network 82.183.0.0/16 
+
+bgp router AS16095 add network 62.223.0.0/16 
+
+bgp router AS36972 add network 144.108.0.0/16 
+
+bgp router AS25358 add network 99.14.0.0/16 
+
+bgp router AS5602 add network 21.226.0.0/16 
+
+bgp router AS12324 add network 48.36.0.0/16 
+
+bgp router AS25454 add network 99.110.0.0/16 
+
+bgp router AS21491 add network 83.243.0.0/16 
+
+bgp router AS37604 add network 146.228.0.0/16 
+
+bgp router AS25180 add network 98.92.0.0/16 
+
+bgp router AS37550 add network 146.174.0.0/16 
+
+bgp router AS15825 add network 61.209.0.0/16 
+
+bgp router AS37120 add network 145.0.0.0/16 
+
+bgp router AS37489 add network 146.113.0.0/16 
+
+bgp router AS30740 add network 120.20.0.0/16 
+
+bgp router AS25229 add network 98.141.0.0/16 
+
+bgp router AS37136 add network 145.16.0.0/16 
+
+bgp router AS37069 add network 144.205.0.0/16 
+
+bgp router AS8400 add network 32.208.0.0/16 
+
+bgp router AS24490 add network 95.170.0.0/16 
+
+bgp router AS251 add network 0.251.0.0/16 
+
+bgp router AS36988 add network 144.124.0.0/16 
+
+bgp router AS32216 add network 125.216.0.0/16 
+
+bgp router AS9829 add network 38.101.0.0/16 
+
+bgp router AS8570 add network 33.122.0.0/16 
+
+bgp router AS15290 add network 59.186.0.0/16 
+
+bgp router AS7545 add network 29.121.0.0/16 
+
+bgp router AS37631 add network 146.255.0.0/16 
+
+bgp router AS24186 add network 94.122.0.0/16 
+
+bgp router AS25818 add network 100.218.0.0/16 
+
+bgp router AS13101 add network 51.45.0.0/16 
+
+bgp router AS8954 add network 34.250.0.0/16 
+
+bgp router AS2967 add network 11.151.0.0/16 
+
+bgp router AS8228 add network 32.36.0.0/16 
+
+bgp router AS37011 add network 144.147.0.0/16 
+
+bgp router AS20080 add network 78.112.0.0/16 
+
+bgp router AS37012 add network 144.148.0.0/16 
+
+bgp router AS31619 add network 123.131.0.0/16 
+
+bgp router AS37627 add network 146.251.0.0/16 
+
+bgp router AS37444 add network 146.68.0.0/16 
+
+bgp router AS36982 add network 144.118.0.0/16 
+
+bgp router AS38285 add network 149.141.0.0/16 
+
+bgp router AS4760 add network 18.152.0.0/16 
+
+bgp router AS36889 add network 144.25.0.0/16 
+
+bgp router AS37091 add network 144.227.0.0/16 
+
+bgp router AS30583 add network 119.119.0.0/16 
+
+bgp router AS37629 add network 146.253.0.0/16 
+
+bgp router AS25250 add network 98.162.0.0/16 
+
+bgp router AS6407 add network 25.7.0.0/16 
+
+bgp router AS41820 add network 163.92.0.0/16 
+
+bgp router AS37368 add network 145.248.0.0/16 
+
+bgp router AS37088 add network 144.224.0.0/16 
+
+bgp router AS22011 add network 85.251.0.0/16 
+
+bgp router AS11486 add network 44.222.0.0/16 
+
+bgp router AS24890 add network 97.58.0.0/16 
+
+bgp router AS29492 add network 115.52.0.0/16 
+
+bgp router AS4773 add network 18.165.0.0/16 
+
+bgp router AS13293 add network 51.237.0.0/16 
+
+bgp router AS15022 add network 58.174.0.0/16 
+
+bgp router AS4617 add network 18.9.0.0/16 
+
+bgp router AS6509 add network 25.109.0.0/16 
+
+bgp router AS2152 add network 8.104.0.0/16 
+
+bgp router AS37053 add network 144.189.0.0/16 
+
+bgp router AS52465 add network 204.241.0.0/16 
+
+bgp router AS53698 add network 209.194.0.0/16 
+
+bgp router AS13002 add network 50.202.0.0/16 
+
+bgp router AS37422 add network 146.46.0.0/16 
+
+bgp router AS6249 add network 24.105.0.0/16 
+
+bgp router AS37168 add network 145.48.0.0/16 
+
+bgp router AS8522 add network 33.74.0.0/16 
+
+bgp router AS9821 add network 38.93.0.0/16 
+
+bgp router AS20001 add network 78.33.0.0/16 
+
+bgp router AS21385 add network 83.137.0.0/16 
+
+bgp router AS7020 add network 27.108.0.0/16 
+
+bgp router AS39228 add network 153.60.0.0/16 
+
+bgp router AS5537 add network 21.161.0.0/16 
+
+bgp router AS47169 add network 184.65.0.0/16 
+
+bgp router AS8629 add network 33.181.0.0/16 
+
+bgp router AS64602 add network 252.90.0.0/16 
+
+bgp router AS2153 add network 8.105.0.0/16 
+
+bgp router AS48159 add network 188.31.0.0/16 
+
+bgp router AS36985 add network 144.121.0.0/16 
+
+bgp router AS42 add network 0.42.0.0/16 
+
+bgp router AS5229 add network 20.109.0.0/16 
+
+bgp router AS6181 add network 24.37.0.0/16 
+
+bgp router AS8626 add network 33.178.0.0/16 
+
+bgp router AS19169 add network 74.225.0.0/16 
+
+bgp router AS15497 add network 60.137.0.0/16 
+
+bgp router AS24724 add network 96.148.0.0/16 
+
+bgp router AS64576 add network 252.64.0.0/16 
+
+bgp router AS6968 add network 27.56.0.0/16 
+
+bgp router AS19554 add network 76.98.0.0/16 
+
+bgp router AS37637 add network 147.5.0.0/16 
+
+bgp router AS8612 add network 33.164.0.0/16 
+
+bgp router AS37303 add network 145.183.0.0/16 
+
+bgp router AS53162 add network 207.170.0.0/16 
+
+bgp router AS37647 add network 147.15.0.0/16 
+
+bgp router AS6225 add network 24.81.0.0/16 
+
+bgp router AS65013 add network 253.245.0.0/16 
+
+bgp router AS25973 add network 101.117.0.0/16 
+
+bgp router AS36994 add network 144.130.0.0/16 
+
+bgp router AS39151 add network 152.239.0.0/16 
+
+bgp router AS37314 add network 145.194.0.0/16 
+
+bgp router AS37294 add network 145.174.0.0/16 
+
+bgp router AS7342 add network 28.174.0.0/16 
+
+bgp router AS37139 add network 145.19.0.0/16 
+
+bgp router AS37212 add network 145.92.0.0/16 
+
+bgp router AS36903 add network 144.39.0.0/16 
+
+bgp router AS36973 add network 144.109.0.0/16 
+
+bgp router AS36952 add network 144.88.0.0/16 
+
+bgp router AS57463 add network 224.119.0.0/16 
+
+bgp router AS812 add network 3.44.0.0/16 
+
+bgp router AS37362 add network 145.242.0.0/16 
+
+bgp router AS29674 add network 115.234.0.0/16 
+
+bgp router AS37317 add network 145.197.0.0/16 
+
+bgp router AS48237 add network 188.109.0.0/16 
+
+bgp router AS5236 add network 20.116.0.0/16 
+
+bgp router AS13773 add network 53.205.0.0/16 
+
+bgp router AS37461 add network 146.85.0.0/16 
+
+bgp router AS27986 add network 109.82.0.0/16 
+
+bgp router AS37173 add network 145.53.0.0/16 
+
+bgp router AS16724 add network 65.84.0.0/16 
+
+bgp router AS37251 add network 145.131.0.0/16 
+
+bgp router AS51551 add network 201.95.0.0/16 
+
+bgp router AS8781 add network 34.77.0.0/16 
+
+bgp router AS37204 add network 145.84.0.0/16 
+
+bgp router AS27699 add network 108.51.0.0/16 
+
+bgp router AS37010 add network 144.146.0.0/16 
+
+bgp router AS36891 add network 144.27.0.0/16 
+
+bgp router AS19117 add network 74.173.0.0/16 
+
+bgp router AS37284 add network 145.164.0.0/16 
+
+bgp router AS6237 add network 24.93.0.0/16 
+
+bgp router AS20928 add network 81.192.0.0/16 
+
+bgp router AS3302 add network 12.230.0.0/16 
+
+bgp router AS36929 add network 144.65.0.0/16 
+
+bgp router AS4755 add network 18.147.0.0/16 
+
+bgp router AS37330 add network 145.210.0.0/16 
+
+bgp router AS36961 add network 144.97.0.0/16 
+
+bgp router AS37320 add network 145.200.0.0/16 
+
+bgp router AS8732 add network 34.28.0.0/16 
+
+bgp router AS25369 add network 99.25.0.0/16 
+
+bgp router AS37236 add network 145.116.0.0/16 
+
+bgp router AS8455 add network 33.7.0.0/16 
+
+bgp router AS37373 add network 145.253.0.0/16 
+
+bgp router AS5563 add network 21.187.0.0/16 
+
+bgp router AS9155 add network 35.195.0.0/16 
+
+bgp router AS4610 add network 18.2.0.0/16 
+
+bgp router AS37301 add network 145.181.0.0/16 
+
+bgp router AS41629 add network 162.157.0.0/16 
+
+bgp router AS25206 add network 98.118.0.0/16 
+
+bgp router AS36870 add network 144.6.0.0/16 
+
+bgp router AS1853 add network 7.61.0.0/16 
+
+bgp router AS37237 add network 145.117.0.0/16 
+
+bgp router AS5603 add network 21.227.0.0/16 
+
+bgp router AS11468 add network 44.204.0.0/16 
+
+bgp router AS32787 add network 128.19.0.0/16 
+
+bgp router AS31133 add network 121.157.0.0/16 
+
+bgp router AS6083 add network 23.195.0.0/16 
+
+bgp router AS29465 add network 115.25.0.0/16 
+
+bgp router AS16058 add network 62.186.0.0/16 
+
+bgp router AS37477 add network 146.101.0.0/16 
+
+bgp router AS2828 add network 11.12.0.0/16 
+
+bgp router AS37037 add network 144.173.0.0/16 
+
+bgp router AS37482 add network 146.106.0.0/16 
+
+bgp router AS33771 add network 131.235.0.0/16 
+
+bgp router AS36954 add network 144.90.0.0/16 
+
+bgp router AS24115 add network 94.51.0.0/16 
+
+bgp router AS6799 add network 26.143.0.0/16 
+
+bgp router AS24482 add network 95.162.0.0/16 
+
+bgp router AS4768 add network 18.160.0.0/16 
+
+bgp router AS12926 add network 50.126.0.0/16 
+
+bgp router AS11259 add network 43.251.0.0/16 
+
+bgp router AS9009 add network 35.49.0.0/16 
+
+bgp router AS65132 add network 254.108.0.0/16 
+
+bgp router AS22735 add network 88.207.0.0/16 
+
+bgp router AS37253 add network 145.133.0.0/16 
+
+bgp router AS35819 add network 139.235.0.0/16 
+
+bgp router AS9583 add network 37.111.0.0/16 
+
+bgp router AS17547 add network 68.139.0.0/16 
+
+bgp router AS9116 add network 35.156.0.0/16 
+
+bgp router AS760 add network 2.248.0.0/16 
+
+bgp router AS37436 add network 146.60.0.0/16 
+
+bgp router AS37412 add network 146.36.0.0/16 
+
+bgp router AS29396 add network 114.212.0.0/16 
+
+bgp router AS7473 add network 29.49.0.0/16 
+
+bgp router AS37061 add network 144.197.0.0/16 
+
+bgp router AS7660 add network 29.236.0.0/16 
+
+bgp router AS37274 add network 145.154.0.0/16 
+
+bgp router AS559 add network 2.47.0.0/16 
+
+bgp router AS3043 add network 11.227.0.0/16 
+
+bgp router AS30969 add network 120.249.0.0/16 
+
+bgp router AS55824 add network 218.16.0.0/16 
+
+bgp router AS53889 add network 210.129.0.0/16 
+
+bgp router AS8928 add network 34.224.0.0/16 
+
+bgp router AS9482 add network 37.10.0.0/16 
+
+bgp router AS1916 add network 7.124.0.0/16 
+
+bgp router AS37685 add network 147.53.0.0/16 
+
+bgp router AS37645 add network 147.13.0.0/16 
+
+bgp router AS33781 add network 131.245.0.0/16 
+
+bgp router AS37473 add network 146.97.0.0/16 
+
+bgp router AS4809 add network 18.201.0.0/16 
+
+bgp router AS10803 add network 42.51.0.0/16 
+
+bgp router AS37170 add network 145.50.0.0/16 
+
+bgp router AS1089 add network 4.65.0.0/16 
+
+bgp router AS37457 add network 146.81.0.0/16 
+
+bgp router AS60764 add network 237.92.0.0/16 
+
+bgp router AS27693 add network 108.45.0.0/16 
+
+bgp router AS21501 add network 83.253.0.0/16 
+
+bgp router AS13110 add network 51.54.0.0/16 
+
+bgp router AS25248 add network 98.160.0.0/16 
+
+bgp router AS36911 add network 144.47.0.0/16 
+
+bgp router AS37493 add network 146.117.0.0/16 
+
+bgp router AS14265 add network 55.185.0.0/16 
+
+bgp router AS6295 add network 24.151.0.0/16 
+
+bgp router AS37208 add network 145.88.0.0/16 
+
+bgp router AS3223 add network 12.151.0.0/16 
+
+bgp router AS36986 add network 144.122.0.0/16 
+
+bgp router AS37248 add network 145.128.0.0/16 
+
+bgp router AS36991 add network 144.127.0.0/16 
+
+bgp router AS50300 add network 196.124.0.0/16 
+
+bgp router AS37270 add network 145.150.0.0/16 
+
+bgp router AS6834 add network 26.178.0.0/16 
+
+bgp router AS17705 add network 69.41.0.0/16 
+
+bgp router AS57858 add network 226.2.0.0/16 
+
+bgp router AS15802 add network 61.186.0.0/16 
+
+bgp router AS37386 add network 146.10.0.0/16 
+
+bgp router AS9293 add network 36.77.0.0/16 
+
+bgp router AS9002 add network 35.42.0.0/16 
+
+bgp router AS10796 add network 42.44.0.0/16 
+
+bgp router AS37191 add network 145.71.0.0/16 
+
+bgp router AS12406 add network 48.118.0.0/16 
+
+bgp router AS2716 add network 10.156.0.0/16 
+
+bgp router AS21195 add network 82.203.0.0/16 
+
+bgp router AS42473 add network 165.233.0.0/16 
+
+bgp router AS1389 add network 5.109.0.0/16 
+
+bgp router AS37343 add network 145.223.0.0/16 
+
+bgp router AS37316 add network 145.196.0.0/16 
+
+bgp router AS24863 add network 97.31.0.0/16 
+
+bgp router AS29017 add network 113.89.0.0/16 
+
+bgp router AS6205 add network 24.61.0.0/16 
+
+bgp router AS6723 add network 26.67.0.0/16 
+
+bgp router AS58453 add network 228.85.0.0/16 
+
+bgp router AS4725 add network 18.117.0.0/16 
+
+bgp router AS36979 add network 144.115.0.0/16 
+
+bgp router AS9901 add network 38.173.0.0/16 
+
+bgp router AS34205 add network 133.157.0.0/16 
+
+bgp router AS31463 add network 122.231.0.0/16 
+
+bgp router AS9924 add network 38.196.0.0/16 
+
+bgp router AS13249 add network 51.193.0.0/16 
+
+bgp router AS9737 add network 38.9.0.0/16 
+
+bgp router AS58682 add network 229.58.0.0/16 
+
+bgp router AS2647 add network 10.87.0.0/16 
+
+bgp router AS37371 add network 145.251.0.0/16 
+
+bgp router AS4637 add network 18.29.0.0/16 
+
+bgp router AS11537 add network 45.17.0.0/16 
+
+bgp router AS29606 add network 115.166.0.0/16 
+
+bgp router AS36977 add network 144.113.0.0/16 
+
+bgp router AS37568 add network 146.192.0.0/16 
+
+bgp router AS55330 add network 216.34.0.0/16 
+
+bgp router AS37142 add network 145.22.0.0/16 
+
+bgp router AS6272 add network 24.128.0.0/16 
+
+bgp router AS4641 add network 18.33.0.0/16 
+
+bgp router AS28917 add network 112.245.0.0/16 
+
+bgp router AS56702 add network 221.126.0.0/16 
+
+bgp router AS37508 add network 146.132.0.0/16 
+
+bgp router AS31810 add network 124.66.0.0/16 
+
+bgp router AS27715 add network 108.67.0.0/16 
+
+bgp router AS57187 add network 223.99.0.0/16 
+
+bgp router AS3292 add network 12.220.0.0/16 
+
+bgp router AS23947 add network 93.139.0.0/16 
+
+bgp router AS29076 add network 113.148.0.0/16 
+
+bgp router AS7474 add network 29.50.0.0/16 
+
+bgp router AS15003 add network 58.155.0.0/16 
+
+bgp router AS7908 add network 30.228.0.0/16 
+
+bgp router AS36890 add network 144.26.0.0/16 
+
+bgp router AS6227 add network 24.83.0.0/16 
+
+bgp router AS12695 add network 49.151.0.0/16 
+
+bgp router AS38835 add network 151.179.0.0/16 
+
+bgp router AS4651 add network 18.43.0.0/16 
+
+bgp router AS37074 add network 144.210.0.0/16 
+
+bgp router AS16265 add network 63.137.0.0/16 
+
+bgp router AS12179 add network 47.147.0.0/16 
+
+bgp router AS37423 add network 146.47.0.0/16 
+
+bgp router AS37534 add network 146.158.0.0/16 
+
+bgp router AS37210 add network 145.90.0.0/16 
+
+bgp router AS37182 add network 145.62.0.0/16 
+
+bgp router AS21050 add network 82.58.0.0/16 
+
+bgp router AS33764 add network 131.228.0.0/16 
+
+bgp router AS37356 add network 145.236.0.0/16 
+
+bgp router AS37219 add network 145.99.0.0/16 
+
+bgp router AS37460 add network 146.84.0.0/16 
+
+bgp router AS12715 add network 49.171.0.0/16 
+
+bgp router AS1280 add network 5.0.0.0/16 
+
+bgp router AS25163 add network 98.75.0.0/16 
+
+bgp router AS37211 add network 145.91.0.0/16 
+
+bgp router AS24951 add network 97.119.0.0/16 
+
+bgp router AS17884 add network 69.220.0.0/16 
+
+bgp router AS36947 add network 144.83.0.0/16 
+
+bgp router AS48287 add network 188.159.0.0/16 
+
+bgp router AS22750 add network 88.222.0.0/16 
+
+bgp router AS19429 add network 75.229.0.0/16 
+
+bgp router AS6660 add network 26.4.0.0/16 
+
+bgp router AS6306 add network 24.162.0.0/16 
+
+bgp router AS2764 add network 10.204.0.0/16 
+
+bgp router AS31263 add network 122.31.0.0/16 
+
+bgp router AS27947 add network 109.43.0.0/16 
+
+bgp router AS37200 add network 145.80.0.0/16 
+
+bgp router AS18705 add network 73.17.0.0/16 
+
+bgp router AS20965 add network 81.229.0.0/16 
+
+bgp router AS9119 add network 35.159.0.0/16 
+
+bgp router AS28745 add network 112.73.0.0/16 
+
+bgp router AS5882 add network 22.250.0.0/16 
+
+bgp router AS37109 add network 144.245.0.0/16 
+
+bgp router AS13124 add network 51.68.0.0/16 
+
+bgp router AS9891 add network 38.163.0.0/16 
+
+bgp router AS31195 add network 121.219.0.0/16 
+
+bgp router AS7738 add network 30.58.0.0/16 
+
+bgp router AS37680 add network 147.48.0.0/16 
+
+bgp router AS36957 add network 144.93.0.0/16 
+
+bgp router AS33597 add network 131.61.0.0/16 
+
+bgp router AS11799 add network 46.23.0.0/16 
+
+bgp router AS5552 add network 21.176.0.0/16 
+
+bgp router AS37238 add network 145.118.0.0/16 
+
+bgp router AS36877 add network 144.13.0.0/16 
+
+bgp router AS10223 add network 39.239.0.0/16 
+
+bgp router AS34104 add network 133.56.0.0/16 
+
+bgp router AS6327 add network 24.183.0.0/16 
+
+bgp router AS7843 add network 30.163.0.0/16 
+
+bgp router AS33780 add network 131.244.0.0/16 
+
+bgp router AS24990 add network 97.158.0.0/16 
+
+bgp router AS4004 add network 15.164.0.0/16 
+
+bgp router AS33765 add network 131.229.0.0/16 
+
+bgp router AS6229 add network 24.85.0.0/16 
+
+bgp router AS11404 add network 44.140.0.0/16 
+
+bgp router AS37005 add network 144.141.0.0/16 
+
+bgp router AS33480 add network 130.200.0.0/16 
+
+bgp router AS582 add network 2.70.0.0/16 
+
+bgp router AS46746 add network 182.154.0.0/16 
+
+bgp router AS7552 add network 29.128.0.0/16 
+
+bgp router AS17451 add network 68.43.0.0/16 
+
+bgp router AS3301 add network 12.229.0.0/16 
+
+bgp router AS221 add network 0.221.0.0/16 
+
+bgp router AS6232 add network 24.88.0.0/16 
+
+bgp router AS4466 add network 17.114.0.0/16 
+
+bgp router AS58668 add network 229.44.0.0/16 
+
+bgp router AS36997 add network 144.133.0.0/16 
+
+bgp router AS29075 add network 113.147.0.0/16 
+
+bgp router AS37323 add network 145.203.0.0/16 
+
+bgp router AS58436 add network 228.68.0.0/16 
+
+bgp router AS9050 add network 35.90.0.0/16 
+
+bgp router AS44267 add network 172.235.0.0/16 
+
+bgp router AS25695 add network 100.95.0.0/16 
+
+bgp router AS22713 add network 88.185.0.0/16 
+
+bgp router AS2149 add network 8.101.0.0/16 
+
+bgp router AS15557 add network 60.197.0.0/16 
+
+bgp router AS9929 add network 38.201.0.0/16 
+
+bgp router AS5056 add network 19.192.0.0/16 
+
+bgp router AS6661 add network 26.5.0.0/16 
+
+bgp router AS2042 add network 7.250.0.0/16 
+
+bgp router AS45250 add network 176.194.0.0/16 
+
+bgp router AS12578 add network 49.34.0.0/16 
+
+bgp router AS37381 add network 146.5.0.0/16 
+
+bgp router AS37034 add network 144.170.0.0/16 
+
+bgp router AS37269 add network 145.149.0.0/16 
+
+bgp router AS6939 add network 27.27.0.0/16 
+
+bgp router AS36996 add network 144.132.0.0/16 
+
+bgp router AS36944 add network 144.80.0.0/16 
+
+bgp router AS7420 add network 28.252.0.0/16 
+
+bgp router AS64553 add network 252.41.0.0/16 
+
+bgp router AS37177 add network 145.57.0.0/16 
+
+bgp router AS15626 add network 61.10.0.0/16 
+
+bgp router AS4739 add network 18.131.0.0/16 
+
+bgp router AS20960 add network 81.224.0.0/16 
+
+bgp router AS37605 add network 146.229.0.0/16 
+
+bgp router AS47777 add network 186.161.0.0/16 
+
+bgp router AS4821 add network 18.213.0.0/16 
+
+bgp router AS4750 add network 18.142.0.0/16 
+
+bgp router AS22911 add network 89.127.0.0/16 
+
+bgp router AS25429 add network 99.85.0.0/16 
+
+bgp router AS35297 add network 137.225.0.0/16 
+
+bgp router AS8529 add network 33.81.0.0/16 
+
+bgp router AS37148 add network 145.28.0.0/16 
+
+bgp router AS37340 add network 145.220.0.0/16 
+
+bgp router AS37503 add network 146.127.0.0/16 
+
+bgp router AS35432 add network 138.104.0.0/16 
+
+bgp router AS33788 add network 131.252.0.0/16 
+
+bgp router AS37254 add network 145.134.0.0/16 
+
+bgp router AS6213 add network 24.69.0.0/16 
+
+bgp router AS36953 add network 144.89.0.0/16 
+
+bgp router AS53767 add network 210.7.0.0/16 
+
+bgp router AS37214 add network 145.94.0.0/16 
+
+bgp router AS4922 add network 19.58.0.0/16 
+
+bgp router AS19384 add network 75.184.0.0/16 
+
+bgp router AS30844 add network 120.124.0.0/16 
+
+bgp router AS44530 add network 173.242.0.0/16 
+
+bgp router AS24155 add network 94.91.0.0/16 
+
+bgp router AS37542 add network 146.166.0.0/16 
+
+bgp router AS15935 add network 62.63.0.0/16 
+
+bgp router AS35549 add network 138.221.0.0/16 
+
+bgp router AS47794 add network 186.178.0.0/16 
+
+bgp router AS21156 add network 82.164.0.0/16 
+
+bgp router AS4765 add network 18.157.0.0/16 
+
+bgp router AS30997 add network 121.21.0.0/16 
+
+bgp router AS37013 add network 144.149.0.0/16 
+
+bgp router AS12713 add network 49.169.0.0/16 
+
+bgp router AS10282 add network 40.42.0.0/16 
+
+bgp router AS20598 add network 80.118.0.0/16 
+
+bgp router AS36959 add network 144.95.0.0/16 
+
+bgp router AS1797 add network 7.5.0.0/16 
+
+bgp router AS21003 add network 82.11.0.0/16 
+
+bgp router AS3491 add network 13.163.0.0/16 
+
+bgp router AS6247 add network 24.103.0.0/16 
+
+bgp router AS13879 add network 54.55.0.0/16 
+
+bgp router AS6004 add network 23.116.0.0/16 
+
+bgp router AS37006 add network 144.142.0.0/16 
+
+bgp router AS2119 add network 8.71.0.0/16 
+
+bgp router AS15706 add network 61.90.0.0/16 
+
+bgp router AS32491 add network 126.235.0.0/16 
+
+bgp router AS35074 add network 137.2.0.0/16 
+
+bgp router AS39811 add network 155.131.0.0/16 
+
+bgp router AS37347 add network 145.227.0.0/16 
+
+bgp router AS20294 add network 79.70.0.0/16 
+
+bgp router AS35091 add network 137.19.0.0/16 
+
+bgp router AS36666 add network 143.58.0.0/16 
+
+bgp router AS33657 add network 131.121.0.0/16 
+
+bgp router AS37157 add network 145.37.0.0/16 
+
+bgp router AS37054 add network 144.190.0.0/16 
+
+bgp router AS28032 add network 109.128.0.0/16 
+
+bgp router AS29405 add network 114.221.0.0/16 
+
+bgp router AS318 add network 1.62.0.0/16 
+
+bgp router AS34723 add network 135.163.0.0/16 
+
+bgp router AS37078 add network 144.214.0.0/16 
+
+bgp router AS31893 add network 124.149.0.0/16 
+
+bgp router AS40065 add network 156.129.0.0/16 
+
+bgp router AS12491 add network 48.203.0.0/16 
+
+bgp router AS37569 add network 146.193.0.0/16 
+
+bgp router AS37509 add network 146.133.0.0/16 
+
+bgp router AS39737 add network 155.57.0.0/16 
+
+bgp router AS12779 add network 49.235.0.0/16 
+
+bgp router AS5580 add network 21.204.0.0/16 
+
+bgp router AS9885 add network 38.157.0.0/16 
+
+bgp router AS37143 add network 145.23.0.0/16 
+
+bgp router AS6517 add network 25.117.0.0/16 
+
+bgp router AS37392 add network 146.16.0.0/16 
+
+bgp router AS31715 add network 123.227.0.0/16 
+
+bgp router AS37308 add network 145.188.0.0/16 
+
+bgp router AS37558 add network 146.182.0.0/16 
+
+bgp router AS37250 add network 145.130.0.0/16 
+
+bgp router AS4258 add network 16.162.0.0/16 
+
+bgp router AS65194 add network 254.170.0.0/16 
+
+bgp router AS32881 add network 128.113.0.0/16 
+
+bgp router AS9889 add network 38.161.0.0/16 
+
+bgp router AS6663 add network 26.7.0.0/16 
+
+bgp router AS37385 add network 146.9.0.0/16 
+
+bgp router AS37547 add network 146.171.0.0/16 
+
+bgp router AS37377 add network 146.1.0.0/16 
+
+bgp router AS37084 add network 144.220.0.0/16 
+
+bgp router AS20180 add network 78.212.0.0/16 
+
+bgp router AS37062 add network 144.198.0.0/16 
+
+bgp router AS30362 add network 118.154.0.0/16 
+
+bgp router AS32743 add network 127.231.0.0/16 
+
+bgp router AS30983 add network 121.7.0.0/16 
+
+bgp router AS37421 add network 146.45.0.0/16 
+
+bgp router AS16735 add network 65.95.0.0/16 
+
+bgp router AS37154 add network 145.34.0.0/16 
+
+bgp router AS18107 add network 70.187.0.0/16 
+
+bgp router AS9112 add network 35.152.0.0/16 
+
+bgp router AS55410 add network 216.114.0.0/16 
+
+bgp router AS37563 add network 146.187.0.0/16 
+
+bgp router AS45896 add network 179.72.0.0/16 
+
+bgp router AS12258 add network 47.226.0.0/16 
+
+bgp router AS64732 add network 252.220.0.0/16 
+
+bgp router AS31960 add network 124.216.0.0/16 
+
+bgp router AS30988 add network 121.12.0.0/16 
+
+bgp router AS24521 add network 95.201.0.0/16 
+
+bgp router AS26592 add network 103.224.0.0/16 
+
+bgp router AS33920 add network 132.128.0.0/16 
+
+bgp router AS33891 add network 132.99.0.0/16 
+
+bgp router AS49349 add network 192.197.0.0/16 
+
+bgp router AS37664 add network 147.32.0.0/16 
+
+bgp router AS28343 add network 110.183.0.0/16 
+
+bgp router AS37113 add network 144.249.0.0/16 
+
+bgp router AS3303 add network 12.231.0.0/16 
+
+bgp router AS6275 add network 24.131.0.0/16 
+
+bgp router AS64993 add network 253.225.0.0/16 
+
+bgp router AS29562 add network 115.122.0.0/16 
+
+bgp router AS4847 add network 18.239.0.0/16 
+
+bgp router AS7162 add network 27.250.0.0/16 
+
+bgp router AS36937 add network 144.73.0.0/16 
+
+bgp router AS37363 add network 145.243.0.0/16 
+
+bgp router AS3786 add network 14.202.0.0/16 
+
+bgp router AS37267 add network 145.147.0.0/16 
+
+bgp router AS15694 add network 61.78.0.0/16 
+
+bgp router AS37432 add network 146.56.0.0/16 
+
+bgp router AS14080 add network 55.0.0.0/16 
+
+bgp router AS28513 add network 111.97.0.0/16 
+
+bgp router AS37653 add network 147.21.0.0/16 
+
+bgp router AS17400 add network 67.248.0.0/16 
+
+bgp router AS6866 add network 26.210.0.0/16 
+
+bgp router AS37162 add network 145.42.0.0/16 
+
+bgp router AS27822 add network 108.174.0.0/16 
+
+bgp router AS64725 add network 252.213.0.0/16 
+
+bgp router AS37196 add network 145.76.0.0/16 
+
+bgp router AS1836 add network 7.44.0.0/16 
+
+bgp router AS37601 add network 146.225.0.0/16 
+
+bgp router AS51007 add network 199.63.0.0/16 
+
+bgp router AS36945 add network 144.81.0.0/16 
+
+bgp router AS25139 add network 98.51.0.0/16 
+
+bgp router AS32421 add network 126.165.0.0/16 
+
+bgp router AS4 add network 0.4.0.0/16 
+
+bgp router AS36963 add network 144.99.0.0/16 
+
+bgp router AS4808 add network 18.200.0.0/16 
+
+bgp router AS19711 add network 76.255.0.0/16 
+
+bgp router AS6273 add network 24.129.0.0/16 
+
+bgp router AS6206 add network 24.62.0.0/16 
+
+bgp router AS12597 add network 49.53.0.0/16 
+
+bgp router AS48850 add network 190.210.0.0/16 
+
+bgp router AS14259 add network 55.179.0.0/16 
+
+bgp router AS33924 add network 132.132.0.0/16 
+
+bgp router AS23838 add network 93.30.0.0/16 
+
+bgp router AS64726 add network 252.214.0.0/16 
+
+bgp router AS10201 add network 39.217.0.0/16 
+
+bgp router AS14744 add network 57.152.0.0/16 
+
+bgp router AS25933 add network 101.77.0.0/16 
+
+bgp router AS1103 add network 4.79.0.0/16 
+
+bgp router AS37624 add network 146.248.0.0/16 
+
+bgp router AS6730 add network 26.74.0.0/16 
+
+bgp router AS30999 add network 121.23.0.0/16 
+
+bgp router AS8877 add network 34.173.0.0/16 
+
+bgp router AS55934 add network 218.126.0.0/16 
+
+bgp router AS6057 add network 23.169.0.0/16 
+
+bgp router AS37599 add network 146.223.0.0/16 
+
+bgp router AS33651 add network 131.115.0.0/16 
+
+bgp router AS37523 add network 146.147.0.0/16 
+
+bgp router AS54929 add network 214.145.0.0/16 
+
+bgp router AS1290 add network 5.10.0.0/16 
+
+bgp router AS37133 add network 145.13.0.0/16 
+
+bgp router AS52324 add network 204.100.0.0/16 
+
+bgp router AS18007 add network 70.87.0.0/16 
+
+bgp router AS38248 add network 149.104.0.0/16 
+
+bgp router AS40700 add network 158.252.0.0/16 
+
+bgp router AS5564 add network 21.188.0.0/16 
+
+bgp router AS3215 add network 12.143.0.0/16 
+
+bgp router AS37087 add network 144.223.0.0/16 
+
+bgp router AS6697 add network 26.41.0.0/16 
+
+bgp router AS43531 add network 170.11.0.0/16 
+
+bgp router AS37348 add network 145.228.0.0/16 
+
+bgp router AS29217 add network 114.33.0.0/16 
+
+bgp router AS44237 add network 172.205.0.0/16 
+
+bgp router AS37116 add network 144.252.0.0/16 
+
+bgp router AS37670 add network 147.38.0.0/16 
+
+bgp router AS37164 add network 145.44.0.0/16 
+
+bgp router AS17709 add network 69.45.0.0/16 
+
+bgp router AS37634 add network 147.2.0.0/16 
+
+bgp router AS60632 add network 236.216.0.0/16 
+
+bgp router AS42896 add network 167.144.0.0/16 
+
+bgp router AS37420 add network 146.44.0.0/16 
+
+bgp router AS34501 add network 134.197.0.0/16 
+
+bgp router AS249 add network 0.249.0.0/16 
+
+bgp router AS22354 add network 87.82.0.0/16 
+
+bgp router AS16422 add network 64.38.0.0/16 
+
+bgp router AS3177 add network 12.105.0.0/16 
+
+bgp router AS43852 add network 171.76.0.0/16 
+
+bgp router AS6207 add network 24.63.0.0/16 
+
+bgp router AS15964 add network 62.92.0.0/16 
+
+bgp router AS10217 add network 39.233.0.0/16 
+
+bgp router AS12143 add network 47.111.0.0/16 
+
+bgp router AS4657 add network 18.49.0.0/16 
+
+bgp router AS8972 add network 35.12.0.0/16 
+
+bgp router AS25490 add network 99.146.0.0/16 
+
+bgp router AS4589 add network 17.237.0.0/16 
+
+bgp router AS37682 add network 147.50.0.0/16 
+
+bgp router AS24599 add network 96.23.0.0/16 
+
+bgp router AS36879 add network 144.15.0.0/16 
+
+bgp router AS55805 add network 217.253.0.0/16 
+
+bgp router AS35753 add network 139.169.0.0/16 
+
+bgp router AS37504 add network 146.128.0.0/16 
+
+bgp router AS6230 add network 24.86.0.0/16 
+
+bgp router AS10318 add network 40.78.0.0/16 
+
+bgp router AS24167 add network 94.103.0.0/16 
+
+bgp router AS64950 add network 253.182.0.0/16 
+
+bgp router AS6648 add network 25.248.0.0/16 
+
+bgp router AS37587 add network 146.211.0.0/16 
+
+bgp router AS6762 add network 26.106.0.0/16 
+
+bgp router AS52482 add network 205.2.0.0/16 
+
+bgp router AS29119 add network 113.191.0.0/16 
+
+bgp router AS9264 add network 36.48.0.0/16 
+
+bgp router AS37187 add network 145.67.0.0/16 
+
+bgp router AS13238 add network 51.182.0.0/16 
+
+bgp router AS36916 add network 144.52.0.0/16 
+
+bgp router AS39904 add network 155.224.0.0/16 
+
+bgp router AS577 add network 2.65.0.0/16 
+
+bgp router AS37073 add network 144.209.0.0/16 
+
+bgp router AS17477 add network 68.69.0.0/16 
+
+bgp router AS10084 add network 39.100.0.0/16 
+
+bgp router AS8365 add network 32.173.0.0/16 
+
+bgp router AS25899 add network 101.43.0.0/16 
+
+bgp router AS18881 add network 73.193.0.0/16 
+
+bgp router AS38809 add network 151.153.0.0/16 
+
+bgp router AS29049 add network 113.121.0.0/16 
+
+bgp router AS13030 add network 50.230.0.0/16 
+
+bgp router AS32653 add network 127.141.0.0/16 
+
+bgp router AS6236 add network 24.92.0.0/16 
+
+bgp router AS29226 add network 114.42.0.0/16 
+
+bgp router AS37292 add network 145.172.0.0/16 
+
+bgp router AS52233 add network 204.9.0.0/16 
+
+bgp router AS37593 add network 146.217.0.0/16 
+
+bgp router AS55353 add network 216.57.0.0/16 
+
+bgp router AS21191 add network 82.199.0.0/16 
+
+bgp router AS37615 add network 146.239.0.0/16 
+
+bgp router AS7964 add network 31.28.0.0/16 
+
+bgp router AS20485 add network 80.5.0.0/16 
+
+bgp router AS6005 add network 23.117.0.0/16 
+
+bgp router AS37322 add network 145.202.0.0/16 
+
+bgp router AS12880 add network 50.80.0.0/16 
+
+bgp router AS50146 add network 195.226.0.0/16 
+
+bgp router AS45820 add network 178.252.0.0/16 
+
+bgp router AS18187 add network 71.11.0.0/16 
+
+bgp router AS29340 add network 114.156.0.0/16 
+
+bgp router AS36948 add network 144.84.0.0/16 
+
+bgp router AS12083 add network 47.51.0.0/16 
+
+bgp router AS37484 add network 146.108.0.0/16 
+
+bgp router AS60859 add network 237.187.0.0/16 
+
+bgp router AS34347 add network 134.43.0.0/16 
+
+bgp router AS47232 add network 184.128.0.0/16 
+
+bgp router AS45796 add network 178.228.0.0/16 
+
+bgp router AS2860 add network 11.44.0.0/16 
+
+bgp router AS24757 add network 96.181.0.0/16 
+
+bgp router AS10396 add network 40.156.0.0/16 
+
+bgp router AS37588 add network 146.212.0.0/16 
+
+bgp router AS30995 add network 121.19.0.0/16 
+
+bgp router AS8308 add network 32.116.0.0/16 
+
+bgp router AS51406 add network 200.206.0.0/16 
+
+bgp router AS36864 add network 144.0.0.0/16 
+
+bgp router AS60725 add network 237.53.0.0/16 
+
+bgp router AS24626 add network 96.50.0.0/16 
+
+bgp router AS4648 add network 18.40.0.0/16 
+
+bgp router AS6894 add network 26.238.0.0/16 
+
+bgp router AS30984 add network 121.8.0.0/16 
+
+bgp router AS8218 add network 32.26.0.0/16 
+
+bgp router AS21391 add network 83.143.0.0/16 
+
+bgp router AS37110 add network 144.246.0.0/16 
+
+bgp router AS29544 add network 115.104.0.0/16 
+
+bgp router AS18734 add network 73.46.0.0/16 
+
+bgp router AS52950 add network 206.214.0.0/16 
+
+bgp router AS9549 add network 37.77.0.0/16 
+
+bgp router AS855 add network 3.87.0.0/16 
+
+bgp router AS25091 add network 98.3.0.0/16 
+
+bgp router AS17819 add network 69.155.0.0/16 
+
+bgp router AS42632 add network 166.136.0.0/16 
+
+bgp router AS37207 add network 145.87.0.0/16 
+
+bgp router AS50488 add network 197.56.0.0/16 
+
+bgp router AS37589 add network 146.213.0.0/16 
+
+bgp router AS15924 add network 62.52.0.0/16 
+
+bgp router AS8468 add network 33.20.0.0/16 
+
+bgp router AS37209 add network 145.89.0.0/16 
+
+bgp router AS1764 add network 6.228.0.0/16 
+
+bgp router AS37153 add network 145.33.0.0/16 
+
+bgp router AS6713 add network 26.57.0.0/16 
+
+bgp router AS36920 add network 144.56.0.0/16 
+
+bgp router AS36873 add network 144.9.0.0/16 
+
+bgp router AS37089 add network 144.225.0.0/16 
+
+bgp router AS47264 add network 184.160.0.0/16 
+
+bgp router AS5588 add network 21.212.0.0/16 
+
+bgp router AS11271 add network 44.7.0.0/16 
+
+bgp router AS5089 add network 19.225.0.0/16 
+
+bgp router AS29571 add network 115.131.0.0/16 
+
+bgp router AS34444 add network 134.140.0.0/16 
+
+bgp router AS5 add network 0.5.0.0/16 
+
+bgp router AS37395 add network 146.19.0.0/16 
+
+bgp router AS37345 add network 145.225.0.0/16 
+
+bgp router AS64835 add network 253.67.0.0/16 
+
+bgp router AS919 add network 3.151.0.0/16 
+
+bgp router AS21107 add network 82.115.0.0/16 
+
+bgp router AS22572 add network 88.44.0.0/16 
+
+bgp router AS37620 add network 146.244.0.0/16 
+
+bgp router AS36280 add network 141.184.0.0/16 
+
+bgp router AS39792 add network 155.112.0.0/16 
+
+bgp router AS47814 add network 186.198.0.0/16 
+
+bgp router AS8167 add network 31.231.0.0/16 
+
+bgp router AS65176 add network 254.152.0.0/16 
+
+bgp router AS6700 add network 26.44.0.0/16 
+
+bgp router AS37442 add network 146.66.0.0/16 
+
+bgp router AS37086 add network 144.222.0.0/16 
+
+bgp router AS10474 add network 40.234.0.0/16 
+
+bgp router AS37100 add network 144.236.0.0/16 
+
+bgp router AS32398 add network 126.142.0.0/16 
+
+bgp router AS37669 add network 147.37.0.0/16 
+
+bgp router AS36917 add network 144.53.0.0/16 
+
+bgp router AS11242 add network 43.234.0.0/16 
+
+bgp router AS11888 add network 46.112.0.0/16 
+
+bgp router AS12849 add network 50.49.0.0/16 
+
+bgp router AS37674 add network 147.42.0.0/16 
+
+bgp router AS38880 add network 151.224.0.0/16 
+
+bgp router AS1299 add network 5.19.0.0/16 
+
+bgp router AS65059 add network 254.35.0.0/16 
+
+bgp router AS37312 add network 145.192.0.0/16 
+
+bgp router AS44914 add network 175.114.0.0/16 
+
+bgp router AS5459 add network 21.83.0.0/16 
+
+bgp router AS286 add network 1.30.0.0/16 
+
+bgp router AS16547 add network 64.163.0.0/16 
+
+bgp router AS16416 add network 64.32.0.0/16 
+
+bgp router AS60171 add network 235.11.0.0/16 
+
+bgp router AS14988 add network 58.140.0.0/16 
+
+bgp router AS5227 add network 20.107.0.0/16 
+
+bgp router AS28669 add network 111.253.0.0/16 
+
+bgp router AS37184 add network 145.64.0.0/16 
+
+bgp router AS46175 add network 180.95.0.0/16 
+
+bgp router AS9129 add network 35.169.0.0/16 
+
+bgp router AS34087 add network 133.39.0.0/16 
+
+bgp router AS32678 add network 127.166.0.0/16 
+
+bgp router AS37406 add network 146.30.0.0/16 
+
+bgp router AS37058 add network 144.194.0.0/16 
+
+bgp router AS11666 add network 45.146.0.0/16 
+
+bgp router AS33763 add network 131.227.0.0/16 
+
+bgp router AS21042 add network 82.50.0.0/16 
+
+bgp router AS37341 add network 145.221.0.0/16 
+
+bgp router AS36990 add network 144.126.0.0/16 
+
+bgp router AS44185 add network 172.153.0.0/16 
+
+bgp router AS37462 add network 146.86.0.0/16 
+
+bgp router AS3067 add network 11.251.0.0/16 
+
+bgp router AS49360 add network 192.208.0.0/16 
+
+bgp router AS7518 add network 29.94.0.0/16 
+
+bgp router AS37499 add network 146.123.0.0/16 
+
+bgp router AS31713 add network 123.225.0.0/16 
+
+bgp router AS45609 add network 178.41.0.0/16 
+
+bgp router AS37479 add network 146.103.0.0/16 
+
+bgp router AS37252 add network 145.132.0.0/16 
+
+bgp router AS37376 add network 146.0.0.0/16 
+
+bgp router AS38176 add network 149.32.0.0/16 
+
+bgp router AS28250 add network 110.90.0.0/16 
+
+bgp router AS58389 add network 228.21.0.0/16 
+
+bgp router AS4796 add network 18.188.0.0/16 
+
+bgp router AS29632 add network 115.192.0.0/16 
+
+bgp router AS37628 add network 146.252.0.0/16 
+
+bgp router AS12332 add network 48.44.0.0/16 
+
+bgp router AS37677 add network 147.45.0.0/16 
+
+bgp router AS8767 add network 34.63.0.0/16 
+
+bgp router AS55350 add network 216.54.0.0/16 
+
+bgp router AS64717 add network 252.205.0.0/16 
+
+bgp router AS37232 add network 145.112.0.0/16 
+
+bgp router AS26615 add network 103.247.0.0/16 
+
+bgp router AS37302 add network 145.182.0.0/16 
+
+bgp router AS33785 add network 131.249.0.0/16 
+
+bgp router AS15974 add network 62.102.0.0/16 
+
+bgp router AS37262 add network 145.142.0.0/16 
+
+bgp router AS37179 add network 145.59.0.0/16 
+
+bgp router AS59900 add network 233.252.0.0/16 
+
+bgp router AS37147 add network 145.27.0.0/16 
+
+bgp router AS64828 add network 253.60.0.0/16 
+
+bgp router AS174 add network 0.174.0.0/16 
+
+bgp router AS29107 add network 113.179.0.0/16 
+
+bgp router AS36912 add network 144.48.0.0/16 
+
+bgp router AS7497 add network 29.73.0.0/16 
+
+bgp router AS37166 add network 145.46.0.0/16 
+
+bgp router AS37491 add network 146.115.0.0/16 
+
+bgp router AS6453 add network 25.53.0.0/16 
+
+bgp router AS39326 add network 153.158.0.0/16 
+
+bgp router AS6774 add network 26.118.0.0/16 
+

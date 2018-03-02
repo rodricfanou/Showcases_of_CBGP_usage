@@ -30,7 +30,7 @@ sub perl_core($)
     
     
 	print "Topology loaded \n";
-	open(NETSFILE,"<02_networks_to_add.unix.txt");
+	open(NETSFILE,"<02_networks_to_add.txt");
 	#my $first = $ARGV[0];
 	my $i = 0; 
 	
@@ -87,7 +87,7 @@ sub perl_core($)
 # -----[ main ]------------------------------------------------------
 # -------------------------------------------------------------------
 
-my $cbgp= CBGP->new("/home/roderick/src/cbgp-2.3.2/src/cbgp");
+my $cbgp= CBGP->new("/src/cbgp-2.3.2/src/cbgp");
 
 $cbgp->spawn;
 
